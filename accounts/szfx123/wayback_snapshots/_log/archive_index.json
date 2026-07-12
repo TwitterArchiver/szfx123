@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T17:07:09",
+  "last_updated": "2026-07-12T17:07:40",
   "html": {
     "https://web.archive.org/web/20260501095000if_/https://twitter.com/szfx123/status/2050150739474038998": {
       "status": "done",
@@ -2737,9 +2737,9 @@
       "referenced_by": [
         "20260604031520_twitter_com_szfx123_status_2062372605001425370.json"
       ],
-      "last_updated": "2026-07-12T16:05:33",
+      "last_updated": "2026-07-12T17:07:40",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260604031520/https://video.twimg.com/amplify_video/2062246512332288000/vid/avc1/720x1280/HPO_kK3v9EhZ_R0W.mp4?tag=14",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2066472044641083394/pu/vid/avc1/1152x720/7mvEfQt4Iw2CgScL.mp4?tag=12": {
       "status": "done",
