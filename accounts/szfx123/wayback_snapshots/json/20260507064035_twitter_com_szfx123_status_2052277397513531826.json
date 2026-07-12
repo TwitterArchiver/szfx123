@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2052276278380900690",
+    "created_at": "2026-05-07T06:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052277397513531826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052277397513531826",
+    "in_reply_to_user_id": "1695314246735892480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052276278380900690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好难喝啊🤮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2052276272601190400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsmZYFbUAAx1XT.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2052276278380900690",
+        "created_at": "2026-05-07T06:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052277397513531826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052277397513531826",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052276278380900690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难喝啊🤮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052276272601190400"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2052276278380900690",
+        "created_at": "2026-05-07T06:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052276278380900690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyOIcvlQSr",
+              "end": 34,
+              "expanded_url": "https://x.com/szfx123/status/2052276278380900690/photo/1",
+              "media_key": "3_2052276272601190400",
+              "start": 11,
+              "url": "https://t.co/JyOIcvlQSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052276278380900690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长这么大第一次喝酒😋 https://t.co/JyOIcvlQSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/孤独压抑/自毁倾向/友全部/想和你们交朋友🥺",
+        "id": "1695314246735892480",
+        "location": "无人在意的角落",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970852660573298688/oCumj-ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 111,
+          "like_count": 8540,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2051888050884710469",
+    "created_at": "2026-05-06T04:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051888050884710469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051888050884710469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想穿越对小时候的自己说，傻逼，上完小学就快找个地方跳了，早点离开这个可悲的世界吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2051888050884710469",
+        "created_at": "2026-05-06T04:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051888050884710469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051888050884710469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想穿越对小时候的自己说，傻逼，上完小学就快找个地方跳了，早点离开这个可悲的世界吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/孤独压抑/自毁倾向/友全部",
+        "id": "1695314246735892480",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970852660573298688/oCumj-ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 87,
+          "like_count": 8314,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 260
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

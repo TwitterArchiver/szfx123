@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2062131935305232533",
+    "created_at": "2026-06-03T15:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062190938588577850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825878217183633408",
+          "start": 0,
+          "username": "QLing61007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062190938588577850",
+    "in_reply_to_user_id": "1825878217183633408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062131935305232533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QLing61007 加油，祝好运₍ᵔ•ᴗ•ᵔ₎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2062131935305232533",
+        "created_at": "2026-06-03T15:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062190938588577850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825878217183633408",
+              "start": 0,
+              "username": "QLing61007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062190938588577850",
+        "in_reply_to_user_id": "1825878217183633408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062131935305232533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QLing61007 加油，祝好运₍ᵔ•ᴗ•ᵔ₎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825878217183633408",
+        "conversation_id": "2062131935305232533",
+        "created_at": "2026-06-03T11:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062131935305232533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062131935305232533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1465,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯我终于要毕业了我只希望我500出头能在河南上个公办二本谢谢谢谢求放过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 不o不割不健全 / 自毁倾向 / 友全部 / 想和你们交朋友☺️欢迎互fo微查成分 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 185,
+          "like_count": 10272,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 419
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T12:51:26.000Z",
+        "description": "第二个我：@qing_323                                                                青 7ing丨爱听台女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "qing_323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7ing31705",
+                "end": 23,
+                "expanded_url": "https://ngl.link/7ing31705",
+                "start": 0,
+                "url": "https://t.co/B45eV1ZmhV"
+              }
+            ]
+          }
+        },
+        "id": "1825878217183633408",
+        "location": "沙发海",
+        "name": "青虾滑",
+        "pinned_tweet_id": "2026495009969893775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015112550174916608/E5z8q6mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 558,
+          "like_count": 11550,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2987
+        },
+        "url": "https://t.co/B45eV1ZmhV",
+        "username": "QLing61007",
+        "verified": false
+      }
+    ]
+  }
+}

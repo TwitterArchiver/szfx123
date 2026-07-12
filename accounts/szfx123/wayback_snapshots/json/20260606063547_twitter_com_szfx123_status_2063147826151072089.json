@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2062805198498840821",
+    "created_at": "2026-06-06T06:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063147826151072089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987496594594496512",
+          "start": 0,
+          "username": "aldn126633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063147826151072089",
+    "in_reply_to_user_id": "1987496594594496512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062805198498840821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aldn126633 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062805181855924224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCOYjlbgAAabub.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2062805198498840821",
+        "created_at": "2026-06-06T06:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063147826151072089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987496594594496512",
+              "start": 0,
+              "username": "aldn126633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063147826151072089",
+        "in_reply_to_user_id": "1987496594594496512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062805198498840821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aldn126633 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062805181855924224"
+          ]
+        },
+        "author_id": "1987496594594496512",
+        "conversation_id": "2062805198498840821",
+        "created_at": "2026-06-05T07:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062805198498840821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZ8VtMasRL",
+              "end": 48,
+              "expanded_url": "https://x.com/aldn126633/status/2062805198498840821/photo/1",
+              "media_key": "3_2062805181855924224",
+              "start": 25,
+              "url": "https://t.co/fZ8VtMasRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062805198498840821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 8114,
+          "like_count": 1027,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "好烦好烦好烦好烦好烦好烦好烦好烦糖糖好烦！！！！ https://t.co/fZ8VtMasRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 不o不割不健全 / 自毁倾向 / 友全部 / 想和你们交朋友☺️欢迎互fo微查成分 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 189,
+          "like_count": 10493,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 444
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键\n分身@kiwi_03096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "kiwi_03096"
+              }
+            ]
+          }
+        },
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2043346189853364636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 22,
+          "like_count": 185,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 407
+        },
+        "username": "aldn126633",
+        "verified": false
+      }
+    ]
+  }
+}

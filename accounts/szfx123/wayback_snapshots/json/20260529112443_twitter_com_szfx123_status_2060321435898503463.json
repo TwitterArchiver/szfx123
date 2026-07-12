@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060321433579069440"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2060264584410480971",
+    "created_at": "2026-05-29T11:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060321435898503463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700935161301655552",
+          "start": 0,
+          "username": "qingshixiang258"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CC0gNU1gCI",
+          "end": 47,
+          "expanded_url": "https://x.com/szfx123/status/2060321435898503463/photo/1",
+          "media_key": "3_2060321433579069440",
+          "start": 24,
+          "url": "https://t.co/CC0gNU1gCI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060321435898503463",
+    "in_reply_to_user_id": "1700935161301655552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060264584410480971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingshixiang258 这啥啊看懵了 https://t.co/CC0gNU1gCI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2060321433579069440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe7bYOaoAAug7o.jpg",
+        "width": 196
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2060264558636462080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeHs0jacAAv4XH.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060321433579069440"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2060264584410480971",
+        "created_at": "2026-05-29T11:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060321435898503463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CC0gNU1gCI",
+              "end": 47,
+              "expanded_url": "https://x.com/szfx123/status/2060321435898503463/photo/1",
+              "media_key": "3_2060321433579069440",
+              "start": 24,
+              "url": "https://t.co/CC0gNU1gCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060321435898503463",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060264584410480971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 这啥啊看懵了 https://t.co/CC0gNU1gCI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060264558636462080"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2060264584410480971",
+        "created_at": "2026-05-29T07:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060264584410480971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVlvBqJaiB",
+              "end": 27,
+              "expanded_url": "https://x.com/qingshixiang258/status/2060264584410480971/photo/1",
+              "media_key": "3_2060264558636462080",
+              "start": 4,
+              "url": "https://t.co/SVlvBqJaiB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060264584410480971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼… https://t.co/SVlvBqJaiB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 163,
+          "like_count": 9716,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 375
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1688,
+          "like_count": 41854,
+          "listed_count": 10,
+          "media_count": 1269,
+          "tweet_count": 20546
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

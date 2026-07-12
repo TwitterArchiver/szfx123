@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066568519865544705"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2066568523682308319",
+    "created_at": "2026-06-15T17:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066568523682308319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1537203757250797569",
+          "start": 16,
+          "username": "yongqingwen"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 56,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "start": 33,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "url": "https://t.co/nIi3P0FIUe"
+        },
+        {
+          "display_url": "pic.x.com/WIkX9dCAzf",
+          "end": 80,
+          "expanded_url": "https://x.com/szfx123/status/2066568523682308319/photo/1",
+          "media_key": "3_2066568519865544705",
+          "start": 57,
+          "url": "https://t.co/WIkX9dCAzf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066568523682308319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Twitter上的暗恋是  @yongqingwen\n\n➡️ https://t.co/nIi3P0FIUe https://t.co/WIkX9dCAzf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2066568519865544705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3tHqKXMAET-Ai.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066568519865544705"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066568523682308319",
+        "created_at": "2026-06-15T17:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066568523682308319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1537203757250797569",
+              "start": 16,
+              "username": "yongqingwen"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 56,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "start": 33,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/nIi3P0FIUe"
+            },
+            {
+              "display_url": "pic.x.com/WIkX9dCAzf",
+              "end": 80,
+              "expanded_url": "https://x.com/szfx123/status/2066568523682308319/photo/1",
+              "media_key": "3_2066568519865544705",
+              "start": 57,
+              "url": "https://t.co/WIkX9dCAzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066568523682308319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @yongqingwen\n\n➡️ https://t.co/nIi3P0FIUe https://t.co/WIkX9dCAzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 204,
+          "like_count": 11319,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 510
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T22:42:22.000Z",
+        "description": "我不想成为被人类统治的一员，但他们命中注定要接替神。",
+        "id": "1537203757250797569",
+        "name": "Angela da Foligno",
+        "pinned_tweet_id": "2027229711500468473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024794929197953024/PGuxU9jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 370,
+          "like_count": 1192,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 565
+        },
+        "username": "yongqingwen",
+        "verified": false
+      }
+    ]
+  }
+}

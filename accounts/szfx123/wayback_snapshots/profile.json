@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "username": "@szfx123",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 68,
+        "start": 53,
+        "username": "hahahaha131519"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2057918564674519499",
+    "created_at": "2026-05-23T08:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058102256525000870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895861052648378369",
+          "start": 0,
+          "username": "someofever63656"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058102256525000870",
+    "in_reply_to_user_id": "1895861052648378369",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058088569496092972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@someofever63656 ☺️☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2057918564674519499",
+        "created_at": "2026-05-23T08:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058102256525000870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895861052648378369",
+              "start": 0,
+              "username": "someofever63656"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058102256525000870",
+        "in_reply_to_user_id": "1895861052648378369",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058088569496092972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@someofever63656 ☺️☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895861052648378369",
+        "conversation_id": "2057918564674519499",
+        "created_at": "2026-05-23T07:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058088569496092972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1695314246735892480",
+              "start": 0,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058088569496092972",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057918564674519499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szfx123 摸摸头嗷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055374632459640833/3VB4gST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 138,
+          "like_count": 9225,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 325
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T15:38:10.000Z",
+        "description": "我也不知道写什么QAQ",
+        "id": "1895861052648378369",
+        "location": "Mars",
+        "name": "Diesoe",
+        "pinned_tweet_id": "2044071570046664927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007488203197190144/A0kIxrxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 62,
+          "like_count": 1656,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1117
+        },
+        "username": "someofever63656",
+        "verified": false
+      }
+    ]
+  }
+}

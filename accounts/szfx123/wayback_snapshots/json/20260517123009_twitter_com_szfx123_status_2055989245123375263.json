@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2055921380848492928",
+    "created_at": "2026-05-17T12:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055989245123375263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850587533924876288",
+          "start": 0,
+          "username": "NewYear_NewYear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055989245123375263",
+    "in_reply_to_user_id": "1850587533924876288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055921380848492928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NewYear_NewYear 好可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2055921361571512320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgZleqbgAA2ZKx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2055921361571471360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgZleqa4AA7mou.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055921361567264768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgZlepasAAW-04.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2055921380848492928",
+        "created_at": "2026-05-17T12:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055989245123375263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055989245123375263",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055921380848492928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 好可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055921361571512320",
+            "3_2055921361571471360",
+            "3_2055921361567264768"
+          ]
+        },
+        "author_id": "1850587533924876288",
+        "conversation_id": "2055921380848492928",
+        "created_at": "2026-05-17T08:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055921380848492928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YmUl5RCJUk",
+              "end": 27,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2055921380848492928/photo/1",
+              "media_key": "3_2055921361571512320",
+              "start": 4,
+              "url": "https://t.co/YmUl5RCJUk"
+            },
+            {
+              "display_url": "pic.x.com/YmUl5RCJUk",
+              "end": 27,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2055921380848492928/photo/1",
+              "media_key": "3_2055921361571471360",
+              "start": 4,
+              "url": "https://t.co/YmUl5RCJUk"
+            },
+            {
+              "display_url": "pic.x.com/YmUl5RCJUk",
+              "end": 27,
+              "expanded_url": "https://x.com/NewYear_NewYear/status/2055921380848492928/photo/1",
+              "media_key": "3_2055921361567264768",
+              "start": 4,
+              "url": "https://t.co/YmUl5RCJUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055921380848492928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 209,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😤😤😤 https://t.co/YmUl5RCJUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独压抑 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055374632459640833/3VB4gST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 133,
+          "like_count": 8859,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 292
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 386,
+          "like_count": 6932,
+          "listed_count": 1,
+          "media_count": 787,
+          "tweet_count": 4576
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2068174179019673799",
+    "created_at": "2026-06-20T15:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068351453438357771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898080033740292096",
+          "start": 0,
+          "username": "wuzidigua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068351453438357771",
+    "in_reply_to_user_id": "1898080033740292096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068302415271543264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuzidigua 抱抱(´o̴̶̷̤ㅂo̴̶̷̤`)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2068302415271543264].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2068302415271543264",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2068302415271543264"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2068174179019673799",
+        "created_at": "2026-06-20T15:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068351453438357771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898080033740292096",
+              "start": 0,
+              "username": "wuzidigua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068351453438357771",
+        "in_reply_to_user_id": "1898080033740292096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068302415271543264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuzidigua 抱抱(´o̴̶̷̤ㅂo̴̶̷̤`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 211,
+          "like_count": 11712,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T18:35:58.000Z",
+        "description": "",
+        "id": "1898080033740292096",
+        "name": "无糖地瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919890767285235712/zCv_18bL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 193,
+          "like_count": 4219,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "wuzidigua",
+        "verified": false
+      }
+    ]
+  }
+}

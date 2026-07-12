@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064407379819872256"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2064407382210617709",
+    "created_at": "2026-06-09T18:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064407382210617709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v4GWDLWQtr",
+          "end": 38,
+          "expanded_url": "https://x.com/szfx123/status/2064407382210617709/photo/1",
+          "media_key": "3_2064407379819872256",
+          "start": 15,
+          "url": "https://t.co/v4GWDLWQtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064407382210617709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也想玩这个꜀(˘꒳˘ ꜀) https://t.co/v4GWDLWQtr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064407379819872256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY_kwHbwAA4REl.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064407379819872256"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2064407382210617709",
+        "created_at": "2026-06-09T18:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064407382210617709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4GWDLWQtr",
+              "end": 38,
+              "expanded_url": "https://x.com/szfx123/status/2064407382210617709/photo/1",
+              "media_key": "3_2064407379819872256",
+              "start": 15,
+              "url": "https://t.co/v4GWDLWQtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064407382210617709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想玩这个꜀(˘꒳˘ ꜀) https://t.co/v4GWDLWQtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 不o不割不健全 / 自毁倾向 / 友全部 / 想和你们交朋友☺️欢迎互fo微查成分 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 193,
+          "like_count": 10805,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 458
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

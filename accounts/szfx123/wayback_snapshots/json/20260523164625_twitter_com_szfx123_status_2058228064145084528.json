@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058228061431386112"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2058196235262234987",
+    "created_at": "2026-05-23T16:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T17:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058228064145084528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        },
+        {
+          "end": 19,
+          "id": "1171658344861511682",
+          "start": 10,
+          "username": "Qslhxw77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eOApgE9wNd",
+          "end": 48,
+          "expanded_url": "https://x.com/szfx123/status/2058228064145084528/photo/1",
+          "media_key": "3_2058228061431386112",
+          "start": 25,
+          "url": "https://t.co/eOApgE9wNd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058228064145084528",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058211748952576062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo @Qslhxw77 诶我也是 https://t.co/eOApgE9wNd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_2058228061431386112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBLhFRb0AAU-wT.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058228061431386112"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2058196235262234987",
+        "created_at": "2026-05-23T16:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058228064145084528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 19,
+              "id": "1171658344861511682",
+              "start": 10,
+              "username": "Qslhxw77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOApgE9wNd",
+              "end": 48,
+              "expanded_url": "https://x.com/szfx123/status/2058228064145084528/photo/1",
+              "media_key": "3_2058228061431386112",
+              "start": 25,
+              "url": "https://t.co/eOApgE9wNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058228064145084528",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058211748952576062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @Qslhxw77 诶我也是 https://t.co/eOApgE9wNd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2058196235262234987",
+        "created_at": "2026-05-23T15:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058211748952576062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1171658344861511682",
+              "start": 0,
+              "username": "Qslhxw77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058211748952576062",
+        "in_reply_to_user_id": "1171658344861511682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058210859747590453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qslhxw77 嘻嘻intj哦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055374632459640833/3VB4gST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 141,
+          "like_count": 9240,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 327
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素精神病🩵成分一致回fo🩵请勿私信\n请再一次与我相遇 我永远永远爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (地球OL4.0",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 274,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 129
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-11T05:35:16.000Z",
+        "description": "🩵cn糯米 04/♍️/entp-7w6-792-so/sx-IEE-胆汁质/多血质-混乱善良\n双向｜oder 普瑞巴林重度依赖…\n欢迎交友互fo",
+        "id": "1171658344861511682",
+        "name": "青色夏",
+        "pinned_tweet_id": "2045187103999619566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031108261014024197/KWrNJISV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 304,
+          "like_count": 3380,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 336
+        },
+        "username": "Qslhxw77",
+        "verified": false
+      }
+    ]
+  }
+}

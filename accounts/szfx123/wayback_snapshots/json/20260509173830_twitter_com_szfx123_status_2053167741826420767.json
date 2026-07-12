@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1109121938620768256",
+          "name": "Sekiro: Shadows Die Twice"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1109121938620768256",
+          "name": "Sekiro: Shadows Die Twice"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897364881178624",
+          "name": "Action-adventure games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      }
+    ],
+    "conversation_id": "2053167741826420767",
+    "created_at": "2026-05-09T17:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053167741826420767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sekiro_nd_anim…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/sekiro_nd_anime/status/2052689968078926202",
+          "start": 9,
+          "url": "https://t.co/PezTuY2G0c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053167741826420767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052689968078926202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能活到上映吗😶 https://t.co/PezTuY2G0c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2052649650897977344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx5-2oagAAuG3W.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1109121938620768256",
+              "name": "Sekiro: Shadows Die Twice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1109121938620768256",
+              "name": "Sekiro: Shadows Die Twice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          }
+        ],
+        "conversation_id": "2053167741826420767",
+        "created_at": "2026-05-09T17:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053167741826420767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sekiro_nd_anim…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/sekiro_nd_anime/status/2052689968078926202",
+              "start": 9,
+              "url": "https://t.co/PezTuY2G0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053167741826420767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052689968078926202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能活到上映吗😶 https://t.co/PezTuY2G0c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052649650897977344"
+          ]
+        },
+        "author_id": "1957747578151616512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1109121938620768256",
+              "name": "Sekiro: Shadows Die Twice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1109121938620768256",
+              "name": "Sekiro: Shadows Die Twice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          }
+        ],
+        "conversation_id": "2052689968078926202",
+        "created_at": "2026-05-08T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052689968078926202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 107,
+              "tag": "sekiro"
+            },
+            {
+              "end": 124,
+              "start": 115,
+              "tag": "sekirond"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2Dアニメーション『SEKIRO: NO DEFEAT』 制作決定。",
+              "display_url": "sekiro-anime.jp",
+              "end": 105,
+              "expanded_url": "https://sekiro-anime.jp/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2052603313745711104/_9sKgc9p?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052603313745711104/_9sKgc9p?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "SEKIRO: NO DEFEAT｜アニメ公式",
+              "unwound_url": "https://sekiro-anime.jp/",
+              "url": "https://t.co/VNSTeJ7F5u"
+            },
+            {
+              "display_url": "pic.x.com/zBzxCQHi0Q",
+              "end": 148,
+              "expanded_url": "https://x.com/sekiro_nd_anime/status/2052689968078926202/photo/1",
+              "media_key": "3_2052649650897977344",
+              "start": 125,
+              "url": "https://t.co/zBzxCQHi0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052689968078926202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2198,
+          "impression_count": 1555273,
+          "like_count": 23634,
+          "quote_count": 662,
+          "reply_count": 147,
+          "retweet_count": 9314
+        },
+        "reply_settings": "everyone",
+        "text": "【メインビジュアル解禁】\n\n共に。生きて、死ぬために\n\n劇場版『SEKIRO: NO DEFEAT』\n2026年9月4日より3週間限定上映決定\n\n詳しくはこちら▼\nhttps://t.co/VNSTeJ7F5u\n\n#sekiro #sekirond https://t.co/zBzxCQHi0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/孤独压抑/自毁倾向/友全部/想和你们交朋友🥺/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970852660573298688/oCumj-ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 127,
+          "like_count": 8729,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 279
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T10:23:08.000Z",
+        "description": "戦国末期の忍びの戦いを描いたアクション・アドベンチャーゲーム『SEKIRO: SHADOWS DIE TWICE』 （株式会社フロム・ソフトウェア）の初映像化プロジェクトとして、全編手描きによる2Dアニメーション『SEKIRO: NO DEFEAT』の制作が決定。\nhttps://t.co/221tRFKv5p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sekiro-anime.jp",
+                "end": 156,
+                "expanded_url": "http://sekiro-anime.jp",
+                "start": 133,
+                "url": "https://t.co/221tRFKv5p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sekiro-anime.jp",
+                "end": 23,
+                "expanded_url": "https://sekiro-anime.jp/",
+                "start": 0,
+                "url": "https://t.co/LNgr9wvXJs"
+              }
+            ]
+          }
+        },
+        "id": "1957747578151616512",
+        "name": "「SEKIRO: NO DEFEAT」アニメ公式 ｜9月4日(金)より3週間限定上映",
+        "pinned_tweet_id": "2052689968078926202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957910477922791429/XA8c98Eq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14332,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 46,
+          "media_count": 9,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/LNgr9wvXJs",
+        "username": "sekiro_nd_anime",
+        "verified": true
+      }
+    ]
+  }
+}

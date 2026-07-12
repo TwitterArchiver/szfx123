@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064537354136920064"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2064407382210617709",
+    "created_at": "2026-06-10T02:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064537356229837276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059475041126055936",
+          "start": 0,
+          "username": "Hshdhhd7ofy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SFb3Aj2g1z",
+          "end": 36,
+          "expanded_url": "https://x.com/szfx123/status/2064537356229837276/photo/1",
+          "media_key": "3_2064537354136920064",
+          "start": 13,
+          "url": "https://t.co/SFb3Aj2g1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064537356229837276",
+    "in_reply_to_user_id": "2059475041126055936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064536191177998696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hshdhhd7ofy https://t.co/SFb3Aj2g1z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_2064537354136920064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKa1yQLbIAAaYSc.jpg",
+        "width": 465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064537354136920064"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2064407382210617709",
+        "created_at": "2026-06-10T02:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064537356229837276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Hshdhhd7ofy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFb3Aj2g1z",
+              "end": 36,
+              "expanded_url": "https://x.com/szfx123/status/2064537356229837276/photo/1",
+              "media_key": "3_2064537354136920064",
+              "start": 13,
+              "url": "https://t.co/SFb3Aj2g1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064537356229837276",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064536191177998696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hshdhhd7ofy https://t.co/SFb3Aj2g1z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2064407382210617709",
+        "created_at": "2026-06-10T02:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064536191177998696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1695314246735892480",
+              "start": 0,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064536191177998696",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064535273179058292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szfx123 呃，这也行？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 不o不割不健全 / 自毁倾向 / 友全部 / 查成分互fo / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 193,
+          "like_count": 10810,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 465
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影王者，想以火影为主，全天在线，网瘾大，互fo聊天",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2064371083244175728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 110,
+          "like_count": 2307,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 330
+        },
+        "username": "Hshdhhd7ofy",
+        "verified": true
+      }
+    ]
+  }
+}

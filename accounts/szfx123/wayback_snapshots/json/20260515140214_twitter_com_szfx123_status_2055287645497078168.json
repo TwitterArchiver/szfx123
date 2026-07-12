@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055287641474756608"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2055287645497078168",
+    "created_at": "2026-05-15T14:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055287645497078168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FTJa4JfCvW",
+          "end": 30,
+          "expanded_url": "https://x.com/szfx123/status/2055287645497078168/photo/1",
+          "media_key": "3_2055287641474756608",
+          "start": 7,
+          "url": "https://t.co/FTJa4JfCvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055287645497078168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怀念某位推友 https://t.co/FTJa4JfCvW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2055287641474756608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXZOHVacAAG42w.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055287641474756608"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2055287645497078168",
+        "created_at": "2026-05-15T14:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055287645497078168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTJa4JfCvW",
+              "end": 30,
+              "expanded_url": "https://x.com/szfx123/status/2055287645497078168/photo/1",
+              "media_key": "3_2055287641474756608",
+              "start": 7,
+              "url": "https://t.co/FTJa4JfCvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055287645497078168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀念某位推友 https://t.co/FTJa4JfCvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独压抑 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054569840510468096/dQnQWvSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 132,
+          "like_count": 8739,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 283
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057947130510368768",
+        "3_2057947130996887552",
+        "3_2057947130476875776"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2057947133383409759",
+    "created_at": "2026-05-22T22:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T23:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057947133383409759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a9YpmVLxuc",
+          "end": 23,
+          "expanded_url": "https://x.com/szfx123/status/2057947133383409759/photo/1",
+          "media_key": "3_2057947130510368768",
+          "start": 0,
+          "url": "https://t.co/a9YpmVLxuc"
+        },
+        {
+          "display_url": "pic.x.com/a9YpmVLxuc",
+          "end": 23,
+          "expanded_url": "https://x.com/szfx123/status/2057947133383409759/photo/1",
+          "media_key": "3_2057947130996887552",
+          "start": 0,
+          "url": "https://t.co/a9YpmVLxuc"
+        },
+        {
+          "display_url": "pic.x.com/a9YpmVLxuc",
+          "end": 23,
+          "expanded_url": "https://x.com/szfx123/status/2057947133383409759/photo/1",
+          "media_key": "3_2057947130476875776",
+          "start": 0,
+          "url": "https://t.co/a9YpmVLxuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057947133383409759",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/a9YpmVLxuc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057947130510368768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9MAwCa4AAFZKC.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057947130996887552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9MAx2akAAc4Vp.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057947130476875776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9MAv6b0AAzdks.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057947130510368768",
+            "3_2057947130996887552",
+            "3_2057947130476875776"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2057947133383409759",
+        "created_at": "2026-05-22T22:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057947133383409759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9YpmVLxuc",
+              "end": 23,
+              "expanded_url": "https://x.com/szfx123/status/2057947133383409759/photo/1",
+              "media_key": "3_2057947130510368768",
+              "start": 0,
+              "url": "https://t.co/a9YpmVLxuc"
+            },
+            {
+              "display_url": "pic.x.com/a9YpmVLxuc",
+              "end": 23,
+              "expanded_url": "https://x.com/szfx123/status/2057947133383409759/photo/1",
+              "media_key": "3_2057947130996887552",
+              "start": 0,
+              "url": "https://t.co/a9YpmVLxuc"
+            },
+            {
+              "display_url": "pic.x.com/a9YpmVLxuc",
+              "end": 23,
+              "expanded_url": "https://x.com/szfx123/status/2057947133383409759/photo/1",
+              "media_key": "3_2057947130476875776",
+              "start": 0,
+              "url": "https://t.co/a9YpmVLxuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057947133383409759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a9YpmVLxuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055374632459640833/3VB4gST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 137,
+          "like_count": 9213,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 324
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2061511488926290205",
+    "created_at": "2026-06-01T18:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T19:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061515418687389907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1537203757250797569",
+          "start": 0,
+          "username": "yongqingwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061515418687389907",
+    "in_reply_to_user_id": "1537203757250797569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061511488926290205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yongqingwen 看过纪录片，一直觉得戒网瘾学校是世界上最可怕的地方，能幸存下来很不容易，辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2061511488926290205",
+        "created_at": "2026-06-01T18:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061515418687389907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1537203757250797569",
+              "start": 0,
+              "username": "yongqingwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061515418687389907",
+        "in_reply_to_user_id": "1537203757250797569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061511488926290205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yongqingwen 看过纪录片，一直觉得戒网瘾学校是世界上最可怕的地方，能幸存下来很不容易，辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537203757250797569",
+        "conversation_id": "2061511488926290205",
+        "created_at": "2026-06-01T18:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061511488926290205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061511488926290205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在23年初戒网瘾学校出狱后，我无法再去开始、经营亲密关系。漠视消失的父亲，情感隔绝的母亲，父母功能性的丧失、家庭中责任的推诿；创伤后应激障碍始终萦绕着我。①"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 171,
+          "like_count": 10000,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 398
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T22:42:22.000Z",
+        "description": "我不想成为被人类统治的一员，但他们命中注定要接替神。",
+        "id": "1537203757250797569",
+        "name": "Angela da Foligno",
+        "pinned_tweet_id": "2027229711500468473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024794929197953024/PGuxU9jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 384,
+          "like_count": 883,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 251
+        },
+        "username": "yongqingwen",
+        "verified": false
+      }
+    ]
+  }
+}

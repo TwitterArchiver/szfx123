@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2052721260040454482",
+    "created_at": "2026-05-08T12:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052725957086400792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1970829321498664960",
+          "start": 0,
+          "username": "hahahaha131519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052725957086400792",
+    "in_reply_to_user_id": "1970829321498664960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052721260040454482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahahaha131519 我给你最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最露骨、最实在的结论，五一马上结束了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2052721260040454482",
+        "created_at": "2026-05-08T12:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052725957086400792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1970829321498664960",
+              "start": 0,
+              "username": "hahahaha131519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052725957086400792",
+        "in_reply_to_user_id": "1970829321498664960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052721260040454482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahahaha131519 我给你最直接、最真相、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不煽情、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最露骨、最实在的结论，五一马上结束了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970829321498664960",
+        "conversation_id": "2052721260040454482",
+        "created_at": "2026-05-08T12:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052721260040454482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052721260040454482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/孤独压抑/自毁倾向/友全部/想和你们交朋友🥺",
+        "id": "1695314246735892480",
+        "location": "无人在意的角落",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970852660573298688/oCumj-ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 124,
+          "like_count": 8724,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 276
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T12:35:14.000Z",
+        "description": "",
+        "id": "1970829321498664960",
+        "name": "神之飞雪",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "hahahaha131519",
+        "verified": false
+      }
+    ]
+  }
+}

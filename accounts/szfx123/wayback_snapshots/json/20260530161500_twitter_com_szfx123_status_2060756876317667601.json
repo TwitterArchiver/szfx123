@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060756874002370560"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2060695044521398759",
+    "created_at": "2026-05-30T16:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060756876317667601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013863981132455937",
+          "start": 0,
+          "username": "candle0099"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aExy02TcWX",
+          "end": 35,
+          "expanded_url": "https://x.com/szfx123/status/2060756876317667601/photo/1",
+          "media_key": "3_2060756874002370560",
+          "start": 12,
+          "url": "https://t.co/aExy02TcWX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060756876317667601",
+    "in_reply_to_user_id": "2013863981132455937",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060695044521398759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candle0099 https://t.co/aExy02TcWX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2060756874002370560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlHdWNbEAA12aq.jpg",
+        "width": 300
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060694999378116608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkPLxRbQAA_ue2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060694999420022784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkPLxbasAAOghR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060695000686686208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkPL2JacAAh2dk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060756874002370560"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2060695044521398759",
+        "created_at": "2026-05-30T16:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060756876317667601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013863981132455937",
+              "start": 0,
+              "username": "candle0099"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aExy02TcWX",
+              "end": 35,
+              "expanded_url": "https://x.com/szfx123/status/2060756876317667601/photo/1",
+              "media_key": "3_2060756874002370560",
+              "start": 12,
+              "url": "https://t.co/aExy02TcWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060756876317667601",
+        "in_reply_to_user_id": "2013863981132455937",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060695044521398759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candle0099 https://t.co/aExy02TcWX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060694999378116608",
+            "3_2060694999420022784",
+            "3_2060695000686686208"
+          ]
+        },
+        "author_id": "2013863981132455937",
+        "conversation_id": "2060695044521398759",
+        "created_at": "2026-05-30T12:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060695044521398759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNMpbOJVfH",
+              "end": 23,
+              "expanded_url": "https://x.com/candle0099/status/2060695044521398759/photo/1",
+              "media_key": "3_2060694999378116608",
+              "start": 0,
+              "url": "https://t.co/vNMpbOJVfH"
+            },
+            {
+              "display_url": "pic.x.com/vNMpbOJVfH",
+              "end": 23,
+              "expanded_url": "https://x.com/candle0099/status/2060695044521398759/photo/1",
+              "media_key": "3_2060694999420022784",
+              "start": 0,
+              "url": "https://t.co/vNMpbOJVfH"
+            },
+            {
+              "display_url": "pic.x.com/vNMpbOJVfH",
+              "end": 23,
+              "expanded_url": "https://x.com/candle0099/status/2060695044521398759/photo/1",
+              "media_key": "3_2060695000686686208",
+              "start": 0,
+              "url": "https://t.co/vNMpbOJVfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060695044521398759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vNMpbOJVfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 168,
+          "like_count": 9832,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 384
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T06:39:32.000Z",
+        "description": "9",
+        "id": "2013863981132455937",
+        "location": "在你心里",
+        "name": "烛芯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050699347675820032/Gn0z3DuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 99,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "username": "candle0099",
+        "verified": false
+      }
+    ]
+  }
+}

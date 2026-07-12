@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067310096783409152"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2067308855382655166",
+    "created_at": "2026-06-17T18:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067310099266416645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979068278673981440",
+          "start": 0,
+          "username": "orange219695619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DRQHbaL5Ay",
+          "end": 40,
+          "expanded_url": "https://x.com/szfx123/status/2067310099266416645/photo/1",
+          "media_key": "3_2067310096783409152",
+          "start": 17,
+          "url": "https://t.co/DRQHbaL5Ay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067310099266416645",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067308855382655166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange219695619 https://t.co/DRQHbaL5Ay"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 431,
+        "media_key": "3_2067310096783409152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCPlHdagAAhvWM.jpg",
+        "width": 431
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067308852186673152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCOcq-bcAAT9Ba.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067310096783409152"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2067308855382655166",
+        "created_at": "2026-06-17T18:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067310099266416645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRQHbaL5Ay",
+              "end": 40,
+              "expanded_url": "https://x.com/szfx123/status/2067310099266416645/photo/1",
+              "media_key": "3_2067310096783409152",
+              "start": 17,
+              "url": "https://t.co/DRQHbaL5Ay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067310099266416645",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067308855382655166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 https://t.co/DRQHbaL5Ay"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067308852186673152"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067308855382655166",
+        "created_at": "2026-06-17T18:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067308855382655166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8wYYJfbsQ",
+              "end": 37,
+              "expanded_url": "https://x.com/orange219695619/status/2067308855382655166/photo/1",
+              "media_key": "3_2067308852186673152",
+              "start": 14,
+              "url": "https://t.co/o8wYYJfbsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067308855382655166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "布丁烤好了！\n感觉很成功🥰 https://t.co/o8wYYJfbsQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 211,
+          "like_count": 11575,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 186,
+          "like_count": 10563,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 6589
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

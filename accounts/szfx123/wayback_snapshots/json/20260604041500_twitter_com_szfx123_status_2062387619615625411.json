@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2062358144542728515",
+    "created_at": "2026-06-04T04:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062387619615625411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243717555094573057",
+          "start": 0,
+          "username": "RavenMicroCtrl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062387619615625411",
+    "in_reply_to_user_id": "1243717555094573057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062358144542728515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RavenMicroCtrl 打游戏还是不混圈子比较好，戾气太大太影响心情了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_2062358138872074240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ73zOsbEAAEd3C.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2062358144542728515",
+        "created_at": "2026-06-04T04:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062387619615625411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243717555094573057",
+              "start": 0,
+              "username": "RavenMicroCtrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062387619615625411",
+        "in_reply_to_user_id": "1243717555094573057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062358144542728515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RavenMicroCtrl 打游戏还是不混圈子比较好，戾气太大太影响心情了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062358138872074240"
+          ]
+        },
+        "author_id": "1243717555094573057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062358144542728515",
+        "created_at": "2026-06-04T02:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062358144542728515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UC9CC7ISg2",
+              "end": 152,
+              "expanded_url": "https://x.com/RavenMicroCtrl/status/2062358144542728515/photo/1",
+              "media_key": "3_2062358138872074240",
+              "start": 129,
+              "url": "https://t.co/UC9CC7ISg2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2062358144542728515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞不懂大陆游戏圈子怎么这么喜欢互踩，不说二游社区这种魔怔的比较明显的，就连四大act和魂游也不对付，两边玩家互相骂街也不少，更别说古早任豚索够软区了\n令人感叹的是现在战神不掺和骂战，鬼泣勉强骂一骂，至于忍龙和大贝姐基本也没啥人凹一些观赏性流程，快成凉油了（ https://t.co/UC9CC7ISg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 不o不割不健全 / 自毁倾向 / 友全部 / 想和你们交朋友☺️欢迎互fo微查成分 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 182,
+          "like_count": 10290,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 427
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T01:52:35.000Z",
+        "description": "神爱世人\n但当人类铸脊之时\n不看天空\n\n科洛尼亚侧翼属 | 政治缄默 | 八成蜜糖二成苦",
+        "id": "1243717555094573057",
+        "location": "弥涅瓦",
+        "name": "柳纭兮 | 白夜黑暗行",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015963925796487168/LMkfncc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 1019,
+          "like_count": 1122,
+          "listed_count": 2,
+          "media_count": 1157,
+          "tweet_count": 3748
+        },
+        "username": "RavenMicroCtrl",
+        "verified": false
+      }
+    ]
+  }
+}

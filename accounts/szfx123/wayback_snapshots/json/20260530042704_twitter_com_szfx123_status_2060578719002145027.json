@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2060531429550031155",
+    "created_at": "2026-05-30T04:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060578719002145027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060578719002145027",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060531429550031155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnkMtX 红米吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_2060531421857660928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJh6aThbQAAapHa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2060531429550031155",
+        "created_at": "2026-05-30T04:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060578719002145027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060578719002145027",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060531429550031155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnkMtX 红米吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060531421857660928"
+          ]
+        },
+        "author_id": "2055095022425722880",
+        "conversation_id": "2060531429550031155",
+        "created_at": "2026-05-30T01:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060531429550031155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qxg4ySncZz",
+              "end": 76,
+              "expanded_url": "https://x.com/UnkMtX/status/2060531429550031155/photo/1",
+              "media_key": "3_2060531421857660928",
+              "start": 53,
+              "url": "https://t.co/Qxg4ySncZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060531429550031155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3030,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报！！！我爸同意用800~1200给我换部手机了🥳🥰，话说有什么推荐吗🥺？在哪个平台看二手机比较好啊🥺 https://t.co/Qxg4ySncZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 169,
+          "like_count": 9800,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 380
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "永远怀念@Unkxyn，我的2699fo啊😭|MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|she/her|家长党+年龄党|对象@Lvmaosamaqwq|生产日期11.13.2011|she/her|159cm50kg|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "Unkxyn"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Lvmaosamaqwq"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.✟Unk✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060501193307410432/cO09iKmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 242,
+          "like_count": 80,
+          "listed_count": 12,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "username": "UnkMtX",
+        "verified": false
+      }
+    ]
+  }
+}

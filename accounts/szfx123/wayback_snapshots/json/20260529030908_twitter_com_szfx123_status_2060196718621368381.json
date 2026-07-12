@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2060006173760475292",
+    "created_at": "2026-05-29T03:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060196718621368381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1562796095465369600",
+          "start": 0,
+          "username": "yezi0131kqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060196718621368381",
+    "in_reply_to_user_id": "1562796095465369600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060099106400559202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezi0131kqs 让酒狐陪你玩😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2060006173760475292",
+        "created_at": "2026-05-29T03:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060196718621368381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1562796095465369600",
+              "start": 0,
+              "username": "yezi0131kqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060196718621368381",
+        "in_reply_to_user_id": "1562796095465369600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060099106400559202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezi0131kqs 让酒狐陪你玩😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562796095465369600",
+        "conversation_id": "2060006173760475292",
+        "created_at": "2026-05-28T20:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060099106400559202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1695314246735892480",
+              "start": 0,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060099106400559202",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060006173760475292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szfx123 不知道，但是应该会有人教我玩机械动力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 163,
+          "like_count": 9662,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 366
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T13:36:51.000Z",
+        "description": "只有战雷和WOTB才能让我短暂脱离劳累\n只有涩涩才能让我快乐\nQ：2878104921",
+        "id": "1562796095465369600",
+        "location": "安东星",
+        "name": "叶子",
+        "pinned_tweet_id": "1564149914812268546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562796467856842752/W-aL2fhz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 1877,
+          "like_count": 20466,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1096
+        },
+        "username": "yezi0131kqs",
+        "verified": false
+      }
+    ]
+  }
+}

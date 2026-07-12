@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068272435804372992"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2068248723952427394",
+    "created_at": "2026-06-20T09:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068272437922590962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1537203757250797569",
+          "start": 0,
+          "username": "yongqingwen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J77xjw3zPz",
+          "end": 40,
+          "expanded_url": "https://x.com/szfx123/status/2068272437922590962/photo/1",
+          "media_key": "3_2068272435804372992",
+          "start": 17,
+          "url": "https://t.co/J77xjw3zPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068272437922590962",
+    "in_reply_to_user_id": "1537203757250797569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068248723952427394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yongqingwen 试试呗 https://t.co/J77xjw3zPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 523,
+        "media_key": "3_2068272435804372992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLP60nraAAA9Dij.jpg",
+        "width": 497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068272435804372992"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2068248723952427394",
+        "created_at": "2026-06-20T09:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068272437922590962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1537203757250797569",
+              "start": 0,
+              "username": "yongqingwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J77xjw3zPz",
+              "end": 40,
+              "expanded_url": "https://x.com/szfx123/status/2068272437922590962/photo/1",
+              "media_key": "3_2068272435804372992",
+              "start": 17,
+              "url": "https://t.co/J77xjw3zPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068272437922590962",
+        "in_reply_to_user_id": "1537203757250797569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068248723952427394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yongqingwen 试试呗 https://t.co/J77xjw3zPz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537203757250797569",
+        "conversation_id": "2068248723952427394",
+        "created_at": "2026-06-20T08:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068248723952427394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068248723952427394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好烦，推荐信发过来了我又不想去尝试了，好痛苦好痛苦，好害怕好害怕。为啥啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 210,
+          "like_count": 11693,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T22:42:22.000Z",
+        "description": "我不想成为被人类统治的一员，但他们命中注定要接替神。匿名问答：https://t.co/sTRGAuUbbl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/adf73235",
+                "end": 54,
+                "expanded_url": "https://ngl.link/adf73235",
+                "start": 31,
+                "url": "https://t.co/sTRGAuUbbl"
+              }
+            ]
+          }
+        },
+        "id": "1537203757250797569",
+        "name": "Angela da Foligno",
+        "pinned_tweet_id": "2027229711500468473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024794929197953024/PGuxU9jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 381,
+          "like_count": 1244,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 685
+        },
+        "url": "",
+        "username": "yongqingwen",
+        "verified": false
+      }
+    ]
+  }
+}

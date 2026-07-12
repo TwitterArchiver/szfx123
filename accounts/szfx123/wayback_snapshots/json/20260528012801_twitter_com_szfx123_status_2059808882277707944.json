@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2059792695477088455",
+    "created_at": "2026-05-28T01:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059808882277707944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1538923015932522496",
+          "start": 0,
+          "username": "sunyixian8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059808882277707944",
+    "in_reply_to_user_id": "1538923015932522496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059792695477088455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunyixian8 加油۶•͈⚇•͈♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2059792695477088455",
+        "created_at": "2026-05-28T01:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059808882277707944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1538923015932522496",
+              "start": 0,
+              "username": "sunyixian8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059808882277707944",
+        "in_reply_to_user_id": "1538923015932522496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059792695477088455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunyixian8 加油۶•͈⚇•͈♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538923015932522496",
+        "conversation_id": "2059792695477088455",
+        "created_at": "2026-05-28T00:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059792695477088455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059792695477088455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午要去面试好焦虑好紧张"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 158,
+          "like_count": 9560,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 356
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T16:33:44.000Z",
+        "description": "学中做，做中学，反复回忆｜\n不是我所给予你的超出你所理解的能力，而是超出了你所看到的本身——马里翁｜自己选择的路可以跑｜没什么比发现无法掌控自己的命运更让人沮丧的｜Antinatalism｜以死亡为自由｜生活的很多不确定性我没办法保证｜向之所欣，多不可得｜小人物/多余人/地下人/局外人｜链接是Anna档案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "annas-archive.li",
+                "end": 23,
+                "expanded_url": "https://annas-archive.li/",
+                "start": 0,
+                "url": "https://t.co/FHlZSABbR9"
+              }
+            ]
+          }
+        },
+        "id": "1538923015932522496",
+        "location": "这是个无休止吐槽的小号，请不要follow",
+        "name": "从地下室走上天台",
+        "pinned_tweet_id": "1968903401988661639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056230830465540096/UMWC5-8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 206,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/FHlZSABbR9",
+        "username": "sunyixian8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2059716356816470034",
+    "created_at": "2026-05-27T19:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059716356816470034"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059716356816470034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "幻想爆发丧尸病毒，幻想穿越到mc世界，幻想成为剑与魔法游戏主角，幻想有人趁我睡着砍了我，幻想回到高中刚毕业，幻想有人爱上我，幻想地球爆炸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2059716356816470034",
+        "created_at": "2026-05-27T19:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059716356816470034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059716356816470034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幻想爆发丧尸病毒，幻想穿越到mc世界，幻想成为剑与魔法游戏主角，幻想有人趁我睡着砍了我，幻想回到高中刚毕业，幻想有人爱上我，幻想地球爆炸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 158,
+          "like_count": 9559,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 355
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

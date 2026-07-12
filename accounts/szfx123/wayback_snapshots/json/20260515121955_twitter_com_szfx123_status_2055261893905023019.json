@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2054907953858437601",
+    "created_at": "2026-05-15T12:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055261893905023019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1970829321498664960",
+          "start": 0,
+          "username": "hahahaha131519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055261893905023019",
+    "in_reply_to_user_id": "1970829321498664960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054907953858437601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahahaha131519 测试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2054907953858437601",
+        "created_at": "2026-05-15T12:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055261893905023019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1970829321498664960",
+              "start": 0,
+              "username": "hahahaha131519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055261893905023019",
+        "in_reply_to_user_id": "1970829321498664960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054907953858437601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahahaha131519 测试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970829321498664960",
+        "conversation_id": "2054907953858437601",
+        "created_at": "2026-05-14T12:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054907953858437601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054907953858437601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听过一种说法，说是整个世界都是为我自己而存在的，我死了世界就消失了，我以前是坚定的唯物主义者，但是现在我还挺乐意相信这种说法的，这样在死的时候就可以没有任何顾虑了，大家一起睡大觉😪😪😪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独压抑 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054569840510468096/dQnQWvSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 125,
+          "like_count": 8724,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 281
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T12:35:14.000Z",
+        "description": "@szfx123的小号，马支克你赢了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "szfx123"
+              }
+            ]
+          }
+        },
+        "id": "1970829321498664960",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052763948601184256/iyPJi2wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 24,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "hahahaha131519",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2060447210190557612",
+    "created_at": "2026-05-29T19:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060447210190557612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bluewmist/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bluewmist/status/2060208909839962355",
+          "start": 5,
+          "url": "https://t.co/iza0khjaKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060447210190557612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060208909839962355",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/iza0khjaKW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2060447210190557612",
+        "created_at": "2026-05-29T19:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060447210190557612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bluewmist/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bluewmist/status/2060208909839962355",
+              "start": 5,
+              "url": "https://t.co/iza0khjaKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060447210190557612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060208909839962355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/iza0khjaKW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391996311830876165",
+        "conversation_id": "2060208909839962355",
+        "created_at": "2026-05-29T03:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060208909839962355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060208909839962355",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1954,
+          "impression_count": 358263,
+          "like_count": 5078,
+          "quote_count": 64,
+          "reply_count": 51,
+          "retweet_count": 408
+        },
+        "reply_settings": "everyone",
+        "text": "according to psychology people who often talk to themselves build fake scenarios and have full conversations in their heads often assume it’s normal. but in reality, it’s a form of self regulation, away to process emotions when there’s no one who truly understands them. 1/5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 165,
+          "like_count": 9770,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 379
+        },
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-11T05:59:23.000Z",
+        "description": "sharing content that matters. thoughts not my own.",
+        "id": "1391996311830876165",
+        "location": "Kósmos",
+        "name": "blue",
+        "pinned_tweet_id": "2042158311970369834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926518615941042176/frVmmvUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134433,
+          "following_count": 1696,
+          "like_count": 87895,
+          "listed_count": 587,
+          "media_count": 909,
+          "tweet_count": 65799
+        },
+        "username": "bluewmist",
+        "verified": true
+      }
+    ]
+  }
+}

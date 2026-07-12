@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2052729535939100685",
+    "created_at": "2026-05-08T12:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052733553360945353"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052733553360945353",
+    "in_reply_to_user_id": "1695314246735892480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052729535939100685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幽灵限制吗，我以为只有国产软件才会有这么贱的操作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2052729535939100685",
+        "created_at": "2026-05-08T12:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052733553360945353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052733553360945353",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052729535939100685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幽灵限制吗，我以为只有国产软件才会有这么贱的操作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2052729535939100685",
+        "created_at": "2026-05-08T12:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052729535939100685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052729535939100685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我草了，干嘛啊msk，限流我还不通知我，用小号才发现别人看不到我的点赞评论关注，我哪个帖子违规了告诉我啊，我一个小透明都有人举报吗？气死我了急死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/孤独压抑/自毁倾向/友全部/想和你们交朋友🥺",
+        "id": "1695314246735892480",
+        "location": "无人在意的角落",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970852660573298688/oCumj-ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 124,
+          "like_count": 8728,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 276
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

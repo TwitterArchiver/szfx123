@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066472044641083394"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2066472164979884536",
+    "created_at": "2026-06-15T10:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066472164979884536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JSCLvfyxoX",
+          "end": 39,
+          "expanded_url": "https://x.com/szfx123/status/2066472164979884536/video/1",
+          "media_key": "7_2066472044641083394",
+          "start": 16,
+          "url": "https://t.co/JSCLvfyxoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066472164979884536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "糖糖爆杀黑粉，主播女孩重拳出击 https://t.co/JSCLvfyxoX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66525,
+        "height": 720,
+        "media_key": "7_2066472044641083394",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066472044641083394/pu/img/6_rTzBVOdR5aDWaq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066472044641083394/pu/vid/avc1/432x270/DRih-GfDTNo8dOkt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066472044641083394/pu/vid/avc1/576x360/QHN7gvNhv5VuwtQs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066472044641083394/pu/vid/avc1/1152x720/7mvEfQt4Iw2CgScL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066472044641083394/pu/pl/DS4t4AzAwc7IfxcY.m3u8?tag=12"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066472044641083394"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2066472164979884536",
+        "created_at": "2026-06-15T10:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066472164979884536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSCLvfyxoX",
+              "end": 39,
+              "expanded_url": "https://x.com/szfx123/status/2066472164979884536/video/1",
+              "media_key": "7_2066472044641083394",
+              "start": 16,
+              "url": "https://t.co/JSCLvfyxoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066472164979884536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糖糖爆杀黑粉，主播女孩重拳出击 https://t.co/JSCLvfyxoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 204,
+          "like_count": 11289,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 507
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

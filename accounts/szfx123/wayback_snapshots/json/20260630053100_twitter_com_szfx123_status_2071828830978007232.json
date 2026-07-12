@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2071828830978007232",
+    "created_at": "2026-06-30T05:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071828830978007232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1882697857393893376",
+          "start": 3,
+          "username": "8964reckless_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071828830978007232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071734513156444270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964reckless_: 我恨这个世界，我恨我没得到的爱，自由，成就，和很多光鲜亮丽的事物。我时常想要去随机屠杀，我觉得这个世界一直亏欠我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2071828830978007232",
+        "created_at": "2026-06-30T05:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071828830978007232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1882697857393893376",
+              "start": 3,
+              "username": "8964reckless_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071828830978007232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071734513156444270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964reckless_: 我恨这个世界，我恨我没得到的爱，自由，成就，和很多光鲜亮丽的事物。我时常想要去随机屠杀，我觉得这个世界一直亏欠我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882697857393893376",
+        "conversation_id": "2071734513156444270",
+        "created_at": "2026-06-29T23:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:15:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071734229957067218",
+          "2071734513156444270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071734513156444270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨这个世界，我恨我没得到的爱，自由，成就，和很多光鲜亮丽的事物。我时常想要去随机屠杀，我觉得这个世界一直亏欠我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069676760212680704/7xMLxq-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 212,
+          "like_count": 12128,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 587
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T07:53:19.000Z",
+        "description": "好丽友派@Xooaviccc\n首先我不听摇滚｜皮套@8964_xy11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Xooaviccc"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "8964_xy11"
+              }
+            ]
+          }
+        },
+        "id": "1882697857393893376",
+        "location": "Nowhere",
+        "name": "sakuta_02",
+        "pinned_tweet_id": "2061866105912869370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066191819030081536/20xAvW3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 452,
+          "like_count": 9220,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "8964reckless_",
+        "verified": true
+      }
+    ]
+  }
+}

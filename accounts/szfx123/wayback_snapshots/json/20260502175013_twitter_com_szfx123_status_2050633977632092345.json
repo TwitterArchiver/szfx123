@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2050633480737042848",
+    "created_at": "2026-05-02T17:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050633977632092345"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050633977632092345",
+    "in_reply_to_user_id": "1695314246735892480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050633480737042848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去，自动发帖的吗，打扰你们了对不起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050633477566205952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVQSHrbkAAXOFQ.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2050633480737042848",
+        "created_at": "2026-05-02T17:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050633977632092345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050633977632092345",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050633480737042848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去，自动发帖的吗，打扰你们了对不起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050633477566205952"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2050633480737042848",
+        "created_at": "2026-05-02T17:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050633480737042848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1608637128132685825",
+              "start": 22,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 42,
+              "id": "1554803647909097472",
+              "start": 33,
+              "username": "Wilf_Lin"
+            },
+            {
+              "end": 58,
+              "id": "1891311621991219200",
+              "start": 49,
+              "username": "Numiouo1"
+            },
+            {
+              "end": 79,
+              "id": "1976659813863227392",
+              "start": 65,
+              "username": "qian_YuqianMi"
+            },
+            {
+              "end": 92,
+              "id": "1845786359082135552",
+              "start": 80,
+              "username": "Fluttermori"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 120,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/HVzhyBvrL8"
+            },
+            {
+              "display_url": "pic.x.com/8lq81tjkgP",
+              "end": 144,
+              "expanded_url": "https://x.com/szfx123/status/2050633480737042848/photo/1",
+              "media_key": "3_2050633477566205952",
+              "start": 121,
+              "url": "https://t.co/8lq81tjkgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050633480737042848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @nyaepheia @Wilf_Lin\n👰 配偶: @Numiouo1\n👶 孩子: @qian_YuqianMi @Fluttermori\n\n➡️ https://t.co/HVzhyBvrL8 https://t.co/8lq81tjkgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "喜欢负能量",
+        "id": "1695314246735892480",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970852660573298688/oCumj-ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 80,
+          "like_count": 7893,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 245
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}
