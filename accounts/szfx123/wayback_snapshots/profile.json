@@ -3,17 +3,18 @@
   "username": "@szfx123",
   "bio": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
   "location": "虚空",
-  "link": "ngl.link/szfx1231",
+  "link": "https://ngl.link/szfx1231",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
   "bio_entities": {
     "mentions": [
       {
-        "end": 68,
-        "start": 53,
+        "end": 81,
+        "start": 66,
         "username": "hahahaha131519"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2069676760212680704/7xMLxq-f_normal.jpg"
 }
