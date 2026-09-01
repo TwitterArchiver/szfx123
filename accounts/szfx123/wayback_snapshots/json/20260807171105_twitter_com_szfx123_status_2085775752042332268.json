@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085775747621490688"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2085660084726796767",
+    "created_at": "2026-08-07T17:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085775752042332268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902735424839413760",
+          "start": 0,
+          "username": "litgraley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YVQxAntP4J",
+          "end": 34,
+          "expanded_url": "https://x.com/szfx123/status/2085775752042332268/photo/1",
+          "media_key": "3_2085775747621490688",
+          "start": 11,
+          "url": "https://t.co/YVQxAntP4J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085775752042332268",
+    "in_reply_to_user_id": "1902735424839413760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085660084726796767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litgraley https://t.co/YVQxAntP4J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 296,
+        "media_key": "3_2085775747621490688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIp_dYakAAkh21.jpg",
+        "width": 300
+      },
+      {
+        "height": 1354,
+        "media_key": "3_2085660076959035392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHAyilbcAAW-sW.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085775747621490688"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2085660084726796767",
+        "created_at": "2026-08-07T17:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085775752042332268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVQxAntP4J",
+              "end": 34,
+              "expanded_url": "https://x.com/szfx123/status/2085775752042332268/photo/1",
+              "media_key": "3_2085775747621490688",
+              "start": 11,
+              "url": "https://t.co/YVQxAntP4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085775752042332268",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085660084726796767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley https://t.co/YVQxAntP4J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085660076959035392"
+          ]
+        },
+        "author_id": "1902735424839413760",
+        "conversation_id": "2085660084726796767",
+        "created_at": "2026-08-07T09:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085660084726796767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9W6sSCP1f",
+              "end": 50,
+              "expanded_url": "https://x.com/litgraley/status/2085660084726796767/photo/1",
+              "media_key": "3_2085660076959035392",
+              "start": 27,
+              "url": "https://t.co/q9W6sSCP1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085660084726796767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ber\ntmd\n啊啊啊啊啊啊啊啊啊啊啊\n这傻逼作业啊 https://t.co/q9W6sSCP1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 210,
+          "like_count": 13172,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 955,
+          "like_count": 42459,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 6592
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

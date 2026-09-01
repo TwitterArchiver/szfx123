@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2084551941456294086",
+    "created_at": "2026-08-04T17:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084691173134975070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084691173134975070",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084689113190703379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvovl3 😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2084551941456294086",
+        "created_at": "2026-08-04T17:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084691173134975070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084691173134975070",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084689113190703379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvovl3 😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2084551941456294086",
+        "created_at": "2026-08-04T17:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084689113190703379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1695314246735892480",
+              "start": 0,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084689113190703379",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084658355801633204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szfx123 不，只是恐吓快点写作业什么的\n不会留下伤口因为我在学校本来就不受待见\n有伤口情况更吓人了！会被更频繁地找家长\n她就是因为天天被找家长而精神崩溃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 210,
+          "like_count": 12900,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo\n模仿人类失败者/全世界最恨homework之人/not alien\n人生是被恐惧追赶着逃跑\n请祝福我快些死掉吧！",
+        "id": "1994724283176947712",
+        "location": "@luciawannadone",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2074645061342826708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 504,
+          "like_count": 4307,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 4834
+        },
+        "url": "",
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

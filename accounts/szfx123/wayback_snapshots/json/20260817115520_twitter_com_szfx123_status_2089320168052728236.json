@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2089299490327146690",
+    "created_at": "2026-08-17T11:55:20.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T12:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089320168052728236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880803334405435393",
+          "start": 0,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089320168052728236",
+    "in_reply_to_user_id": "1880803334405435393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089299490327146690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantmaoshenshi 写了吗🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2089299490327146690",
+        "created_at": "2026-08-17T11:55:20.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089320168052728236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089320168052728236",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089299490327146690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi 写了吗🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880803334405435393",
+        "conversation_id": "2089299490327146690",
+        "created_at": "2026-08-17T10:33:10.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T11:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089299490327146690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089299490327146690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开始写作业了，我先把推卸载了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2089320168052728236",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 201,
+          "like_count": 13831,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "友一切 靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹\n\n                        https://t.co/wDrA82nsIu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao53379",
+                "end": 96,
+                "expanded_url": "https://ngl.link/miao53379",
+                "start": 73,
+                "url": "https://t.co/wDrA82nsIu"
+              }
+            ]
+          }
+        },
+        "id": "1880803334405435393",
+        "is_identity_verified": false,
+        "location": "中北海 🚪114514",
+        "most_recent_tweet_id": "2089319192805920836",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880803334405435393/1781014159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1282,
+          "like_count": 13979,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 9902
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

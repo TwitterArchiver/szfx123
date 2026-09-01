@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2090806355271581702",
+    "created_at": "2026-08-21T20:20:45.000Z",
+    "display_text_range": [
+      14,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T21:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090896913801642268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1162208564426862592",
+          "start": 0,
+          "username": "Suzumi_17860"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090896913801642268",
+    "in_reply_to_user_id": "1162208564426862592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090806355271581702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzumi_17860 报团取暖不是挺好的，找正常人又不被理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2090806355271581702",
+        "created_at": "2026-08-21T20:20:45.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090896913801642268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1162208564426862592",
+              "start": 0,
+              "username": "Suzumi_17860"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090896913801642268",
+        "in_reply_to_user_id": "1162208564426862592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090806355271581702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzumi_17860 报团取暖不是挺好的，找正常人又不被理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1162208564426862592",
+        "conversation_id": "2090806355271581702",
+        "created_at": "2026-08-21T14:20:55.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090806355271581702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090806355271581702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么神经病就爱找一样的精神病，是怕自己还不够区非得两个人一起犯病一起死才好吗。那自己选的你受着吧也别问为什么不理你了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2090896913801642268",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 202,
+          "like_count": 14222,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-16T03:44:57.000Z",
+        "description": "和所有傻逼切割｜🏳️‍🌈｜兴趣爱好丧失｜姑且是N1｜关西某杂牌大学学生｜请叫我鈴",
+        "id": "1162208564426862592",
+        "is_identity_verified": false,
+        "location": "大阪",
+        "most_recent_tweet_id": "2090824177603186853",
+        "name": "スズ",
+        "pinned_tweet_id": "2039223136319861237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1162208564426862592/1710532440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788163986313424896/sMAK5dZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 687,
+          "like_count": 2222,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 4822
+        },
+        "url": "",
+        "username": "Suzumi_17860",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

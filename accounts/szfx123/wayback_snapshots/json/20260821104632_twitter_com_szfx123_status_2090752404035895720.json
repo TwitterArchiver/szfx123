@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090752386818273280",
+        "3_2090752396557504512"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2090752404035895720",
+    "created_at": "2026-08-21T10:46:32.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090752404035895720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/prUX7uczDg",
+          "end": 32,
+          "expanded_url": "https://x.com/szfx123/status/2090752404035895720/photo/1",
+          "media_key": "3_2090752386818273280",
+          "start": 9,
+          "url": "https://t.co/prUX7uczDg"
+        },
+        {
+          "display_url": "pic.x.com/prUX7uczDg",
+          "end": 32,
+          "expanded_url": "https://x.com/szfx123/status/2090752404035895720/photo/1",
+          "media_key": "3_2090752396557504512",
+          "start": 9,
+          "url": "https://t.co/prUX7uczDg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090752404035895720",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090752386818273280"
+      },
+      {
+        "media_key": "3_2090752396557504512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买的泡面被压烂了 https://t.co/prUX7uczDg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2090752386818273280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPYN_GacAA21q9.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1049,
+        "media_key": "3_2090752396557504512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPYOjYbUAABg1_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090752386818273280",
+            "3_2090752396557504512"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090752404035895720",
+        "created_at": "2026-08-21T10:46:32.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090752404035895720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/prUX7uczDg",
+              "end": 32,
+              "expanded_url": "https://x.com/szfx123/status/2090752404035895720/photo/1",
+              "media_key": "3_2090752386818273280",
+              "start": 9,
+              "url": "https://t.co/prUX7uczDg"
+            },
+            {
+              "display_url": "pic.x.com/prUX7uczDg",
+              "end": 32,
+              "expanded_url": "https://x.com/szfx123/status/2090752404035895720/photo/1",
+              "media_key": "3_2090752396557504512",
+              "start": 9,
+              "url": "https://t.co/prUX7uczDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090752404035895720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090752386818273280"
+          },
+          {
+            "media_key": "3_2090752396557504512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买的泡面被压烂了 https://t.co/prUX7uczDg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2090752404035895720",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 201,
+          "like_count": 14204,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088193408699617280"
+      ],
+      "media_source_tweet_id": [
+        "2088193436575056246"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2089025102352617810",
+    "created_at": "2026-08-16T16:22:51.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089025102352617810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855548787785437184",
+          "start": 3,
+          "username": "kodoku220909"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RFYt6viYZi",
+          "end": 41,
+          "expanded_url": "https://x.com/kodoku220909/status/2088193436575056246/photo/1",
+          "media_key": "3_2088193408699617280",
+          "start": 18,
+          "url": "https://t.co/RFYt6viYZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089025102352617810",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088193408699617280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088193436575056246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kodoku220909: https://t.co/RFYt6viYZi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3688,
+        "media_key": "3_2088193408699617280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrA12vaUAAg-aY.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088193408699617280"
+          ],
+          "media_source_tweet_id": [
+            "2088193436575056246"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2089025102352617810",
+        "created_at": "2026-08-16T16:22:51.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089025102352617810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1855548787785437184",
+              "start": 3,
+              "username": "kodoku220909"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFYt6viYZi",
+              "end": 41,
+              "expanded_url": "https://x.com/kodoku220909/status/2088193436575056246/photo/1",
+              "media_key": "3_2088193408699617280",
+              "start": 18,
+              "url": "https://t.co/RFYt6viYZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089025102352617810",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088193408699617280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088193436575056246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kodoku220909: https://t.co/RFYt6viYZi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088193408699617280"
+          ]
+        },
+        "author_id": "1855548787785437184",
+        "conversation_id": "2088193436575056246",
+        "created_at": "2026-08-14T09:18:06.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088193436575056246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFYt6viYZi",
+              "end": 23,
+              "expanded_url": "https://x.com/kodoku220909/status/2088193436575056246/photo/1",
+              "media_key": "3_2088193408699617280",
+              "start": 0,
+              "url": "https://t.co/RFYt6viYZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088193436575056246",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088193408699617280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 7613,
+          "like_count": 750,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RFYt6viYZi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2089025102352617810",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 200,
+          "like_count": 13769,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-10T09:51:40.000Z",
+        "description": "@haru220909\n\nhttps://t.co/M1Lmr1faAY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "haru220909"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@kodoku0322?si…",
+                "end": 36,
+                "expanded_url": "https://youtube.com/@kodoku0322?si=gUzTDUxR_KR6Zdr1",
+                "start": 13,
+                "url": "https://t.co/M1Lmr1faAY"
+              }
+            ]
+          }
+        },
+        "id": "1855548787785437184",
+        "is_identity_verified": false,
+        "location": "Midjourney",
+        "most_recent_tweet_id": "2088980832006631858",
+        "name": "kodoku",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855548787785437184/1744002728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909111931367247872/2RgH_r1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60996,
+          "following_count": 5,
+          "like_count": 970,
+          "listed_count": 371,
+          "media_count": 191,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "kodoku220909",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

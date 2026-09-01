@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1106638172182597632",
+          "name": "IGN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1106638172182597632",
+          "name": "IGN"
+        }
+      }
+    ],
+    "conversation_id": "2092320033112310055",
+    "created_at": "2026-08-25T23:16:28.000Z",
+    "display_text_range": [
+      5,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T00:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092390684108185667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "18927441",
+          "start": 0,
+          "username": "IGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092390684108185667",
+    "in_reply_to_user_id": "18927441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092320033112310055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IGN 喔喔喔啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68057,
+        "height": 2160,
+        "media_key": "13_2092319968410890240",
+        "preview_image_url": "https://pbs.twimg.com/media/HQlp9sTX0AAFUZn.jpg",
+        "public_metrics": {
+          "view_count": 20688
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092319968410890240/vid/avc1/480x270/CSnf7coFdT3uGiDU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092319968410890240/vid/avc1/640x360/vIwSUbjnhOKAJzTo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092319968410890240/vid/avc1/1280x720/82EtwsmJy8uo9oj5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092319968410890240/pl/dW85O_2G2E7uwcbn.m3u8?tag=14&v=edb"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1106638172182597632",
+              "name": "IGN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106638172182597632",
+              "name": "IGN"
+            }
+          }
+        ],
+        "conversation_id": "2092320033112310055",
+        "created_at": "2026-08-25T23:16:28.000Z",
+        "display_text_range": [
+          5,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T00:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092390684108185667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "18927441",
+              "start": 0,
+              "username": "IGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092390684108185667",
+        "in_reply_to_user_id": "18927441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092320033112310055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IGN 喔喔喔啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092319968410890240"
+          ]
+        },
+        "author_id": "18927441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1106638172182597632",
+              "name": "IGN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1456021848609615875",
+              "name": "Silent Hill"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Konami",
+              "id": "989942287638478849",
+              "name": "Konami"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106638172182597632",
+              "name": "IGN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1456021848609615875",
+              "name": "Silent Hill"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1562349135579074560",
+              "name": "#nmf"
+            }
+          }
+        ],
+        "conversation_id": "2092320033112310055",
+        "created_at": "2026-08-25T18:35:43.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092320033112310055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 132,
+              "tag": "gamescom2026"
+            },
+            {
+              "end": 163,
+              "start": 146,
+              "tag": "OpeningNightLive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHuqt75aET",
+              "end": 188,
+              "expanded_url": "https://x.com/IGN/status/2092320033112310055/video/1",
+              "media_key": "13_2092319968410890240",
+              "start": 165,
+              "url": "https://t.co/jHuqt75aET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092320033112310055",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2092319968410890240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 83100,
+          "like_count": 443,
+          "quote_count": 15,
+          "reply_count": 8,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "Get a new look at Silent Hill: Townfall, the next spinoff in Konami's horror franchise, coming September 24, with this trailer from #gamescom2026 #OpeningNightLive. https://t.co/jHuqt75aET"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2092390684108185667",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 205,
+          "like_count": 14538,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-01-13T03:56:38.000Z",
+        "description": "We're all about Pombon, movies, TV, and video games!\n\n#IGN30",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "IGN30"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ign.com",
+                "end": 23,
+                "expanded_url": "http://www.ign.com",
+                "start": 0,
+                "url": "https://t.co/ElwEYZyR3H"
+              }
+            ]
+          }
+        },
+        "id": "18927441",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092390592365957241",
+        "name": "IGN",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18927441/1784536102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079121215789092864/PYektixx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10374347,
+          "following_count": 1437,
+          "like_count": 15803,
+          "listed_count": 25175,
+          "media_count": 195075,
+          "tweet_count": 268806
+        },
+        "url": "https://t.co/ElwEYZyR3H",
+        "username": "IGN",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

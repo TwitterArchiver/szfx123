@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2080275342103855162",
+    "created_at": "2026-07-23T19:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080378730443067693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1888313543423938560",
+          "start": 0,
+          "username": "1882778o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080378730443067693",
+    "in_reply_to_user_id": "1888313543423938560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080377215787946394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1882778o 哇哦ฅ՞Ⱉ՞ฅ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2080275342103855162",
+        "created_at": "2026-07-23T19:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080378730443067693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1888313543423938560",
+              "start": 0,
+              "username": "1882778o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080378730443067693",
+        "in_reply_to_user_id": "1888313543423938560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080377215787946394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1882778o 哇哦ฅ՞Ⱉ՞ฅ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888313543423938560",
+        "conversation_id": "2080275342103855162",
+        "created_at": "2026-07-23T19:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080377215787946394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1695314246735892480",
+              "start": 0,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080377215787946394",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080331024572325889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szfx123 梦到我很喜欢的一个长发男跟我恋恋爱爱呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "累，恶心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 208,
+          "like_count": 12583,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T19:47:05.000Z",
+        "description": "愿你有个好心情。",
+        "id": "1888313543423938560",
+        "name": "上帝作證緣是個好菇涼···",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021189620697006080/JM2khOje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 200,
+          "like_count": 6269,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "1882778o",
+        "verified": false
+      }
+    ]
+  }
+}

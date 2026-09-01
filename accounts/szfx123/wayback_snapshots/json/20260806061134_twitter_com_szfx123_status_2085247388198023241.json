@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085247383865303040"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2085209213383606475",
+    "created_at": "2026-08-06T06:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085247388198023241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "8964_xy11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SequPn7Qlp",
+          "end": 34,
+          "expanded_url": "https://x.com/szfx123/status/2085247388198023241/photo/1",
+          "media_key": "3_2085247383865303040",
+          "start": 11,
+          "url": "https://t.co/SequPn7Qlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085247388198023241",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085209213383606475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_xy11 https://t.co/SequPn7Qlp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2085247383865303040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBJcpAaoAABgyK.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2085209125143908352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAmpsKbEAASZGL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2085209125122899969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAmpsFagAEOC2V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085247383865303040"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2085209213383606475",
+        "created_at": "2026-08-06T06:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085247388198023241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "8964_xy11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SequPn7Qlp",
+              "end": 34,
+              "expanded_url": "https://x.com/szfx123/status/2085247388198023241/photo/1",
+              "media_key": "3_2085247383865303040",
+              "start": 11,
+              "url": "https://t.co/SequPn7Qlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085247388198023241",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085209213383606475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_xy11 https://t.co/SequPn7Qlp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085209125143908352",
+            "3_2085209125122899969"
+          ]
+        },
+        "author_id": "1733255083440357376",
+        "conversation_id": "2085209213383606475",
+        "created_at": "2026-08-06T03:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085209213383606475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6vQhjsGA0",
+              "end": 171,
+              "expanded_url": "https://x.com/8964_xy11/status/2085209213383606475/photo/1",
+              "media_key": "3_2085209125143908352",
+              "start": 148,
+              "url": "https://t.co/z6vQhjsGA0"
+            },
+            {
+              "display_url": "pic.x.com/z6vQhjsGA0",
+              "end": 171,
+              "expanded_url": "https://x.com/8964_xy11/status/2085209213383606475/photo/1",
+              "media_key": "3_2085209125122899969",
+              "start": 148,
+              "url": "https://t.co/z6vQhjsGA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085209213383606475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "08/05/2026\nLevi’s Stadium，Santa Clara.\nTPR supporting AC/DC Power Up Tour\n不要停止歌唱，我的女神\n心脏同步鼓点，我的眼泪只为你而流，\n我只为你而战，\n带我穿过黄昏走向地狱吧。\nyou make me wanna die. https://t.co/z6vQhjsGA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 209,
+          "like_count": 13026,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "活着就是为了听@TPROfficial\n坚信无依无靠就是无拘无束\n匿名提问箱和私信都会回复\n皮下@8964reckless_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "TPROfficial"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "8964reckless_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 0,
+                "url": "https://t.co/j6vldLU2uY"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "Gladsheim ，Asgard",
+        "name": "曦夜今天吃什么",
+        "pinned_tweet_id": "2085209213383606475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032562522243645440/zofg4AZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 987,
+          "like_count": 51013,
+          "listed_count": 11,
+          "media_count": 110,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/j6vldLU2uY",
+        "username": "8964_xy11",
+        "verified": false
+      }
+    ]
+  }
+}

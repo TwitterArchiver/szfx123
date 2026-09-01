@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2089744232710058188",
+    "created_at": "2026-08-19T07:13:25.000Z",
+    "display_text_range": [
+      17,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089973998306418689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895861052648378369",
+          "start": 0,
+          "username": "someofever63656"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Free online tool to download Twitter/X GIFs as real .gif files. Convert in your browser. No login required.",
+          "display_url": "twitterviewer.net/twitter-gif-do…",
+          "end": 89,
+          "expanded_url": "https://twitterviewer.net/twitter-gif-downloader?utm_source=chatgpt.com",
+          "start": 66,
+          "status": 200,
+          "title": "Free Twitter GIF Downloader - Save Twitter/X GIFs as Real .gif",
+          "unwound_url": "https://twitterviewer.net/twitter-gif-downloader?utm_source=chatgpt.com",
+          "url": "https://t.co/Hl0isCVWnH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089973998306418689",
+    "in_reply_to_user_id": "1895861052648378369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089893302208504087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@someofever63656 QQ的就是先收藏，然后点开收藏，再点省略号，有保存到相册。推特的把有gif的帖子链接复制到这个网站https://t.co/Hl0isCVWnH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2089744232710058188",
+        "created_at": "2026-08-19T07:13:25.000Z",
+        "display_text_range": [
+          17,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089973998306418689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895861052648378369",
+              "start": 0,
+              "username": "someofever63656"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Free online tool to download Twitter/X GIFs as real .gif files. Convert in your browser. No login required.",
+              "display_url": "twitterviewer.net/twitter-gif-do…",
+              "end": 89,
+              "expanded_url": "https://twitterviewer.net/twitter-gif-downloader?utm_source=chatgpt.com",
+              "start": 66,
+              "status": 200,
+              "title": "Free Twitter GIF Downloader - Save Twitter/X GIFs as Real .gif",
+              "unwound_url": "https://twitterviewer.net/twitter-gif-downloader?utm_source=chatgpt.com",
+              "url": "https://t.co/Hl0isCVWnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089973998306418689",
+        "in_reply_to_user_id": "1895861052648378369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089893302208504087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@someofever63656 QQ的就是先收藏，然后点开收藏，再点省略号，有保存到相册。推特的把有gif的帖子链接复制到这个网站https://t.co/Hl0isCVWnH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895861052648378369",
+        "conversation_id": "2089744232710058188",
+        "created_at": "2026-08-19T01:52:46.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T02:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089893302208504087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1695314246735892480",
+              "start": 0,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089893302208504087",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089744232710058188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szfx123 窝也要知道QAQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2089973998306418689",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 204,
+          "like_count": 14008,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-01T15:38:10.000Z",
+        "description": "我也不知道写什么QAQ",
+        "id": "1895861052648378369",
+        "is_identity_verified": false,
+        "location": "Mars",
+        "most_recent_tweet_id": "2089949954756469140",
+        "name": "Diesoe",
+        "pinned_tweet_id": "2044071570046664927",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895861052648378369/1741604059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007488203197190144/A0kIxrxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 72,
+          "like_count": 1934,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1345
+        },
+        "url": "",
+        "username": "someofever63656",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

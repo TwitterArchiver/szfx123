@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2079836240728485903",
+    "created_at": "2026-07-22T10:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079879142586421325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079879142586421325",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079836240728485903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 愿另一个世界没有痛苦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2079836240728485903",
+        "created_at": "2026-07-22T10:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079879142586421325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079879142586421325",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079836240728485903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 愿另一个世界没有痛苦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2079836240728485903",
+        "created_at": "2026-07-22T07:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079836240728485903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079836240728485903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7737,
+          "like_count": 99,
+          "quote_count": 8,
+          "reply_count": 66,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n\n此号号主于22号凌晨\n因突发呼吸抑制去世\n\n我是此号亲友，欠的稿件钱抱歉退还不了了真的很抱歉我不知道怎么补偿你们。对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 208,
+          "like_count": 12545,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2079836240728485903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079395599175282688/C130gJKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 217,
+          "like_count": 228,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 1022
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

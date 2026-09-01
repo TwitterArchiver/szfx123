@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2087557855159124073",
+    "created_at": "2026-08-12T16:04:14.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087570867786228003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087570867786228003",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087557855159124073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2087557855159124073",
+        "created_at": "2026-08-12T16:04:14.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087570867786228003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087570867786228003",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087557855159124073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2087557855159124073",
+        "created_at": "2026-08-12T15:12:32.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087557855159124073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087557855159124073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🦍真正的青春顶峰就在17.18.19岁这三年，一旦年龄变成2开头整个人生将开始走向综合的下坡路……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2087570867786228003",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 204,
+          "like_count": 13450,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "Fly me to the Moon.‖18↑‖杂多里垢‖匿名箱https://t.co/UQQWQB3ylm‖互fo欢迎‖单纯的屌丝一枚文盲一个讨厌一切文艺相关不要跟我讲高大上我听不懂",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 32,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "is_identity_verified": false,
+        "location": "🚪1145.14",
+        "most_recent_tweet_id": "2087558902736920911",
+        "name": "死海",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287313244693000193/1786083224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085615198384410624/haGXDIaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 2373,
+          "like_count": 25200,
+          "listed_count": 2,
+          "media_count": 610,
+          "tweet_count": 16957
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

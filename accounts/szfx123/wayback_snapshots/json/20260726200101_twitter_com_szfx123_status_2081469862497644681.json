@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2081469862497644681",
+    "created_at": "2026-07-26T20:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081469862497644681"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081469862497644681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挺神奇的，老一辈的思想还是农业社会那一套，把传宗接代，不让别人笑幻作为人生目标，他们不思考自己想要的是什么，就有无穷的动力和意义感。和邪教也有些类似吧，被洗脑之后，失去了主体性却偏偏得到了意义感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2081469862497644681",
+        "created_at": "2026-07-26T20:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081469862497644681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081469862497644681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挺神奇的，老一辈的思想还是农业社会那一套，把传宗接代，不让别人笑幻作为人生目标，他们不思考自己想要的是什么，就有无穷的动力和意义感。和邪教也有些类似吧，被洗脑之后，失去了主体性却偏偏得到了意义感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "累，恶心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 209,
+          "like_count": 12644,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2093808029934444930",
+    "created_at": "2026-08-29T21:09:49.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T22:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093808363964617022"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093808363964617022",
+    "in_reply_to_user_id": "1695314246735892480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093808029934444930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我开了通知权限也不弹通知，没法即时回复"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2093808021164158976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6zTUFacAAHw5B.jpg",
+        "width": 1440
+      },
+      {
+        "height": 364,
+        "media_key": "3_2093808026516144128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6zToBbQAAeyqK.jpg",
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2093808029934444930",
+        "created_at": "2026-08-29T21:09:49.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T22:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093808363964617022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093808363964617022",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093808029934444930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我开了通知权限也不弹通知，没法即时回复"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093808021164158976",
+            "3_2093808026516144128"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093808029934444930",
+        "created_at": "2026-08-29T21:08:30.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T22:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093808029934444930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQc3NCuUFI",
+              "end": 57,
+              "expanded_url": "https://x.com/szfx123/status/2093808029934444930/photo/1",
+              "media_key": "3_2093808021164158976",
+              "start": 34,
+              "url": "https://t.co/oQc3NCuUFI"
+            },
+            {
+              "display_url": "pic.x.com/oQc3NCuUFI",
+              "end": 57,
+              "expanded_url": "https://x.com/szfx123/status/2093808029934444930/photo/1",
+              "media_key": "3_2093808026516144128",
+              "start": 34,
+              "url": "https://t.co/oQc3NCuUFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093808029934444930",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093808021164158976"
+          },
+          {
+            "media_key": "3_2093808026516144128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不外向就会成为外向者的玩物！\n嗯可以这个还挺好玩，确实能看出来是谁 https://t.co/oQc3NCuUFI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2093808363964617022",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 203,
+          "like_count": 14747,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

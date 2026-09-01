@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2089828689089634390",
+    "created_at": "2026-08-18T21:36:01.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089828689089634390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896604741821726720",
+          "start": 3,
+          "username": "_yonayonaka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089828689089634390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089772464989782062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yonayonaka_: 都他妈不许插了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2089828689089634390",
+        "created_at": "2026-08-18T21:36:01.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089828689089634390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896604741821726720",
+              "start": 3,
+              "username": "_yonayonaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089828689089634390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089772464989782062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yonayonaka_: 都他妈不许插了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896604741821726720",
+        "conversation_id": "2089772464989782062",
+        "created_at": "2026-08-18T17:52:36.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089772464989782062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089772464989782062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都他妈不许插了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2089828689089634390",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 204,
+          "like_count": 13974,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-03T16:53:18.000Z",
+        "description": "痛苦和幸福本来就是同一条感受通道里的两端。\n里人格：@shi6w6\n🍤请看置顶 口令/赞赏码备注，没有口令的私信无差别拉黑。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "shi6w6"
+              }
+            ]
+          }
+        },
+        "id": "1896604741821726720",
+        "is_identity_verified": false,
+        "location": "🚪88/288/520 ",
+        "most_recent_tweet_id": "2089777610742280369",
+        "name": "✞薬箱✞",
+        "pinned_tweet_id": "2069371793832616314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896604741821726720/1741022311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934199642042097664/ny-1qwXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 310,
+          "like_count": 1514,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 1471
+        },
+        "url": "",
+        "username": "_yonayonaka_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

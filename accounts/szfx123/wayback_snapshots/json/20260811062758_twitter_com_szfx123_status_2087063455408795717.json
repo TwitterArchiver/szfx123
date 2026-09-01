@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2087063455408795717",
+    "created_at": "2026-08-11T06:27:58.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087063455408795717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/szfx123/status…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/szfx123/status/2087038853332828469",
+          "start": 50,
+          "url": "https://t.co/ss5HZbYL83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087063455408795717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087038853332828469",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有时候还挺同情一些反派的，没有被好好对待过，然后就去害人。我没有害人的想法，但是我非常嫉妒幸福的人 https://t.co/ss5HZbYL83"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2087038847163240448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPamxh2bEAADDpB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2087063455408795717",
+        "created_at": "2026-08-11T06:27:58.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087063455408795717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/szfx123/status…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/szfx123/status/2087038853332828469",
+              "start": 50,
+              "url": "https://t.co/ss5HZbYL83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087063455408795717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087038853332828469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时候还挺同情一些反派的，没有被好好对待过，然后就去害人。我没有害人的想法，但是我非常嫉妒幸福的人 https://t.co/ss5HZbYL83"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087038847163240448"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2087038853332828469",
+        "created_at": "2026-08-11T04:50:12.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087038853332828469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYN3hex5lC",
+              "end": 23,
+              "expanded_url": "https://x.com/szfx123/status/2087038853332828469/photo/1",
+              "media_key": "3_2087038847163240448",
+              "start": 0,
+              "url": "https://t.co/lYN3hex5lC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087038853332828469",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087038847163240448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lYN3hex5lC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2087063455408795717",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 203,
+          "like_count": 13356,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

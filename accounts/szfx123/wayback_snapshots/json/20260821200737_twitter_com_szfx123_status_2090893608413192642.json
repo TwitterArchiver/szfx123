@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2090893608413192642",
+    "created_at": "2026-08-21T20:07:37.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T21:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090893608413192642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778719380639014913",
+          "start": 3,
+          "username": "Ancde_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090893608413192642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090801715490717914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ancde_1118: 要是有个人能带我逃走就好了 无论遇到什么挫折 都站在我这边 说没关系 有我在呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2090893608413192642",
+        "created_at": "2026-08-21T20:07:37.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090893608413192642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778719380639014913",
+              "start": 3,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090893608413192642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090801715490717914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ancde_1118: 要是有个人能带我逃走就好了 无论遇到什么挫折 都站在我这边 说没关系 有我在呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2090801715490717914",
+        "created_at": "2026-08-21T14:02:28.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090801715490717914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090801715490717914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 680,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "要是有个人能带我逃走就好了 无论遇到什么挫折 都站在我这边 说没关系 有我在呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2090893608413192642",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 202,
+          "like_count": 14218,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090882149134348341",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 685,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

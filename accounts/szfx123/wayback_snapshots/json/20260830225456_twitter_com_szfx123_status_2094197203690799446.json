@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2094197203690799446",
+    "created_at": "2026-08-30T22:54:56.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T23:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094197203690799446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crossyangshe/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/crossyangshe/status/2093932203449409855",
+          "start": 15,
+          "url": "https://t.co/tLx7RVG4fr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094197203690799446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093932203449409855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底什么是真的？我什么都不信 https://t.co/tLx7RVG4fr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2093930865441263616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8jByraUAACHDQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2094197203690799446",
+        "created_at": "2026-08-30T22:54:56.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094197203690799446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crossyangshe/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/crossyangshe/status/2093932203449409855",
+              "start": 15,
+              "url": "https://t.co/tLx7RVG4fr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094197203690799446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093932203449409855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底什么是真的？我什么都不信 https://t.co/tLx7RVG4fr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093930865441263616"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2093932203449409855",
+        "created_at": "2026-08-30T05:21:55.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093932203449409855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1di5bj2GmF",
+              "end": 169,
+              "expanded_url": "https://x.com/crossyangshe/status/2093932203449409855/photo/1",
+              "media_key": "3_2093930865441263616",
+              "start": 146,
+              "url": "https://t.co/1di5bj2GmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093932203449409855",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093930865441263616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假的 一切都是假的 网上的照片都是可以p出来的 说的话是可以装出来的 性格是可以伪装的 人格是可以塑造的 图片文案是可以编造抄袭的\n交虚假的朋友 吃虚假的食物 赚虚假的金钱 去虚假的地方 聊虚假的天 看虚假的风景 服用虚假的药物\n用那虚假的言语 填满凋零的心灵\n只有我在虚假中苦苦追求着真实 https://t.co/1di5bj2GmF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2094197203690799446",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 205,
+          "like_count": 14815,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2094103378439922155",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 619,
+          "like_count": 6039,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1457
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

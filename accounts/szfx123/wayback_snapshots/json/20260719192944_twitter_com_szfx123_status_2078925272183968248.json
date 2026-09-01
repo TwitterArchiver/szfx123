@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2078826012121641302",
+    "created_at": "2026-07-19T19:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078925272183968248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882697857393893376",
+          "start": 0,
+          "username": "8964reckless_"
+        },
+        {
+          "end": 30,
+          "id": "1771754880052715520",
+          "start": 15,
+          "username": "FoolsChasinger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078925272183968248",
+    "in_reply_to_user_id": "1882697857393893376",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078878947040014799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964reckless_ @FoolsChasinger +1"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078878947040014799].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078878947040014799",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078878947040014799"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2078826012121641302",
+        "created_at": "2026-07-19T19:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078925272183968248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882697857393893376",
+              "start": 0,
+              "username": "8964reckless_"
+            },
+            {
+              "end": 30,
+              "id": "1771754880052715520",
+              "start": 15,
+              "username": "FoolsChasinger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078925272183968248",
+        "in_reply_to_user_id": "1882697857393893376",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078878947040014799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964reckless_ @FoolsChasinger +1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 207,
+          "like_count": 12486,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T07:53:19.000Z",
+        "description": "好丽友派@Xooaviccc\n首先我不听摇滚｜皮套@8964_xy11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Xooaviccc"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "8964_xy11"
+              }
+            ]
+          }
+        },
+        "id": "1882697857393893376",
+        "location": "Nowhere",
+        "name": "sakuta_02",
+        "pinned_tweet_id": "2061866105912869370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066191819030081536/20xAvW3F_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 485,
+          "like_count": 9335,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 3534
+        },
+        "url": "",
+        "username": "8964reckless_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T04:24:37.000Z",
+        "description": "自是人生长恨水长东 | 烙铁:@PainissimoVae | 裏人格 @Rainnnol 也没什么东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "PainissimoVae"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "Rainnnol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dl.acm.org",
+                "end": 23,
+                "expanded_url": "https://dl.acm.org/",
+                "start": 0,
+                "url": "https://t.co/6mOYC9pMEA"
+              }
+            ]
+          }
+        },
+        "id": "1771754880052715520",
+        "location": "No such information",
+        "name": "果壳里的君王",
+        "pinned_tweet_id": "2005124066177679586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884181886760804356/ycOyoMJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 664,
+          "like_count": 63192,
+          "listed_count": 13,
+          "media_count": 2916,
+          "tweet_count": 21231
+        },
+        "url": "https://t.co/6mOYC9pMEA",
+        "username": "FoolsChasinger",
+        "verified": false
+      }
+    ]
+  }
+}

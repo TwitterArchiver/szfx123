@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2089983592986550747",
+    "created_at": "2026-08-19T12:25:07.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090052440372744506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2087894477205827584",
+          "start": 0,
+          "username": "ariiii0108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090052440372744506",
+    "in_reply_to_user_id": "2087894477205827584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089983592986550747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ariiii0108 抱抱你😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2089983592986550747",
+        "created_at": "2026-08-19T12:25:07.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090052440372744506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087894477205827584",
+              "start": 0,
+              "username": "ariiii0108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090052440372744506",
+        "in_reply_to_user_id": "2087894477205827584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089983592986550747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ariiii0108 抱抱你😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087894477205827584",
+        "conversation_id": "2089983592986550747",
+        "created_at": "2026-08-19T07:51:33.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089983592986550747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089983592986550747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是个彻底的孤儿了，养父母也都拒绝我了，我没有所谓可以称之为家的地方了。在无穷无尽的哭泣之后我才能打下这些文字。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2090052440372744506",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 199,
+          "like_count": 14037,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T13:31:19.000Z",
+        "description": "2002 01",
+        "id": "2087894477205827584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089983592986550747",
+        "name": "阿哩",
+        "pinned_tweet_id": "2089735070726975531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087894477205827584/1786991248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089418805152018432/YdBsfXGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "ariiii0108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

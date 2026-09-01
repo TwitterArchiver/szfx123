@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2087785461540671494",
+    "created_at": "2026-08-13T19:11:58.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087980501114220578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "Realhoshinofuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087980501114220578",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087785461540671494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realhoshinofuji 我那会儿也是😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2087785461540671494",
+        "created_at": "2026-08-13T19:11:58.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087980501114220578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "Realhoshinofuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087980501114220578",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087785461540671494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realhoshinofuji 我那会儿也是😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082080789119016961",
+        "conversation_id": "2087785461540671494",
+        "created_at": "2026-08-13T06:16:57.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087785461540671494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "小藤故事"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YongQuan/statu…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/YongQuan/status/2087398924327829855",
+              "start": 91,
+              "url": "https://t.co/mvMPuEAtRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087785461540671494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "小藤故事"
+              }
+            ]
+          },
+          "text": "#小藤故事\n还记得我在高二时期，疫情封校将近两个月。学校年级主任看男生头发都长了，越来越不符合校规，于是从校外请来了理发师（只有两个），让学生统一排队理发，每人掏20块钱，必须剃发\n\n没人反抗，没人异议，大家只是在操场上排着队，一边排队一边背书，等轮到自己的时候，老老实实坐在凳子上，旁边的学生不能看热闹，必须大声背书，否则扣分写检查\n\n由于人很多（全年级1000人，一半男生）那理发师只给剃光头，剃完后，头发渣不给清洗，需要我们自己去打水洗（当时冬季，很冷）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9051,
+          "like_count": 82,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087398924327829855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#小藤故事\n还记得我在高二时期，疫情封校将近两个月。学校年级主任看男生头发都长了，越来越不符合校规，于是从校外请来了理发师（只有两个），让学生统一排队理发，每人掏20块钱，必须剃发 https://t.co/mvMPuEAtRh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2087980501114220578",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 205,
+          "like_count": 13540,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜Peace&Love🇺🇳｜pixiv illustrator | AIart |Partner @KokonaKokoro\n 旧友寻回中｜最爱的猫猫 @Kalin_1124｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "Kalin_1124"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087976306072023415",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082080789119016961/1785242064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 1470,
+          "like_count": 2770,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "Realhoshinofuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

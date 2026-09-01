@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2090744581600198898",
+    "created_at": "2026-08-21T10:26:04.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090747253342568802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090747253342568802",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090744581600198898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb 为什么要等回家以后"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2090744581600198898",
+        "created_at": "2026-08-21T10:26:04.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090747253342568802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090747253342568802",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090744581600198898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb 为什么要等回家以后"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2090744581600198898",
+        "created_at": "2026-08-21T10:15:27.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090744581600198898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dsknzb/status/…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/dsknzb/status/2090743277121339765",
+              "start": 98,
+              "url": "https://t.co/jgfg7wr0tD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090744581600198898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090743277121339765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🦍我已经迫不及待想象回家后的大✈️特✈️了，好崩溃啊，半年都没有了我真的想死了，每晚还要被抓男勾引，情绪一天比一天可怕，唯独这个时候才想起来人类本质上还是动物，令人抓狂，窒息，变得不受控制，哦哦 https://t.co/jgfg7wr0tD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2090747253342568802",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 201,
+          "like_count": 14203,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "1000↑‖杂多里垢‖文盲·屌丝·弱智",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 0,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "is_identity_verified": false,
+        "location": "🚪1145.14",
+        "most_recent_tweet_id": "2090745977405853910",
+        "name": "死海",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287313244693000193/1786083224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085615198384410624/haGXDIaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2440,
+          "like_count": 27104,
+          "listed_count": 2,
+          "media_count": 689,
+          "tweet_count": 17846
+        },
+        "url": "https://t.co/UQQWQB3ylm",
+        "username": "dsknzb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

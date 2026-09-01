@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2084684743942058082",
+    "created_at": "2026-08-04T16:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084685462120394906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084685462120394906",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084684743942058082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb 可以开末日庇护所了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2084684725101215744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5JtlxXQAA0zfS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2084684743942058082",
+        "created_at": "2026-08-04T16:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084685462120394906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084685462120394906",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084684743942058082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb 可以开末日庇护所了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084684725101215744"
+          ]
+        },
+        "author_id": "1287313244693000193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084684743942058082",
+        "created_at": "2026-08-04T16:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084684743942058082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5pEKDeFso",
+              "end": 28,
+              "expanded_url": "https://x.com/dsknzb/status/2084684743942058082/photo/1",
+              "media_key": "3_2084684725101215744",
+              "start": 5,
+              "url": "https://t.co/M5pEKDeFso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084684743942058082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很爱喝哦 https://t.co/M5pEKDeFso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 210,
+          "like_count": 12897,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "Blood,Semen,and Death‖18↑‖杂多里垢‖紫薇圣徒@gsdwnff‖匿名箱https://t.co/UQQWQB3ylm‖互fo欢迎‖单纯的屌丝一枚文盲一个讨厌一切文艺相关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "gsdwnff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 70,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 47,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "🚪1145.14",
+        "name": "死海@肉浪狂熱★DarkRed",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078279893423685632/Ku7FAhep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 2354,
+          "like_count": 24222,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 16420
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": false
+      }
+    ]
+  }
+}

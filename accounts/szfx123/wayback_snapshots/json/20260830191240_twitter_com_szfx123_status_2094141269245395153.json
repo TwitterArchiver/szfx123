@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094034177494855681"
+      ],
+      "media_source_tweet_id": [
+        "2094034184612585675"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094141269245395153",
+    "created_at": "2026-08-30T19:12:40.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T20:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094141269245395153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EWCw1LNlWo",
+          "end": 54,
+          "expanded_url": "https://x.com/748cm/status/2094034184612585675/photo/1",
+          "media_key": "3_2094034177494855681",
+          "start": 31,
+          "url": "https://t.co/EWCw1LNlWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094141269245395153",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094034177494855681"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094034184612585675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: 漠然とした破滅願望を抱えて生きている。 https://t.co/EWCw1LNlWo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2094034177494855681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-A_WEbsAE31jR.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094034177494855681"
+          ],
+          "media_source_tweet_id": [
+            "2094034184612585675"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094141269245395153",
+        "created_at": "2026-08-30T19:12:40.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T20:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094141269245395153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWCw1LNlWo",
+              "end": 54,
+              "expanded_url": "https://x.com/748cm/status/2094034184612585675/photo/1",
+              "media_key": "3_2094034177494855681",
+              "start": 31,
+              "url": "https://t.co/EWCw1LNlWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094141269245395153",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094034177494855681"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094034184612585675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: 漠然とした破滅願望を抱えて生きている。 https://t.co/EWCw1LNlWo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094034177494855681"
+          ]
+        },
+        "author_id": "2766725377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094034184612585675",
+        "created_at": "2026-08-30T12:07:09.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T13:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094034184612585675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWCw1LNlWo",
+              "end": 43,
+              "expanded_url": "https://x.com/748cm/status/2094034184612585675/photo/1",
+              "media_key": "3_2094034177494855681",
+              "start": 20,
+              "url": "https://t.co/EWCw1LNlWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094034184612585675",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094034177494855681"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 11856,
+          "like_count": 1064,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "漠然とした破滅願望を抱えて生きている。 https://t.co/EWCw1LNlWo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2094141269245395153",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 205,
+          "like_count": 14800,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "hate me🧸🔪 / DM Open https://t.co/IutnivpC2k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 43,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMT",
+                "start": 20,
+                "url": "https://t.co/IutnivpC2k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MBOWQFP5QE0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/iAcwP4m5Yp"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "is_identity_verified": false,
+        "location": "Created by \"AI\" 100%",
+        "most_recent_tweet_id": "2094034184612585675",
+        "name": "惡意",
+        "pinned_tweet_id": "2078577248287007097",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2766725377/1771423410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128950,
+          "following_count": 206,
+          "like_count": 15411,
+          "listed_count": 638,
+          "media_count": 4304,
+          "tweet_count": 13074
+        },
+        "url": "https://t.co/iAcwP4m5Yp",
+        "username": "748cm",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

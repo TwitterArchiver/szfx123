@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2088097813666402365",
+    "created_at": "2026-08-14T04:47:04.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088125228702724162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088125228702724162",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088097813666402365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 经典自愿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2088097802459176962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpp41vaYAI4oWi.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2088097813666402365",
+        "created_at": "2026-08-14T04:47:04.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088125228702724162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088125228702724162",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088097813666402365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 经典自愿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088097802459176962"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088097813666402365",
+        "created_at": "2026-08-14T02:58:08.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088097813666402365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14XanZVbq7",
+              "end": 35,
+              "expanded_url": "https://x.com/Wesley10032/status/2088097813666402365/photo/1",
+              "media_key": "3_2088097802459176962",
+              "start": 12,
+              "url": "https://t.co/14XanZVbq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088097813666402365",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088097802459176962"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 821,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作为这 1 成我很高兴 https://t.co/14XanZVbq7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2088125228702724162",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 204,
+          "like_count": 13562,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3/友跨🏳️‍⚧️\n政治立场未知/欢迎DM聊天(TG优先)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo/想做心理委员\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuq4W4"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2088120529739989104",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 1479,
+          "like_count": 15808,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 2716
+        },
+        "url": "https://t.co/Q5wiGuq4W4",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

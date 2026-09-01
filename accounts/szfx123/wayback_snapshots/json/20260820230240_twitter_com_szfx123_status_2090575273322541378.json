@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2090471462864146731",
+    "created_at": "2026-08-20T23:02:40.000Z",
+    "display_text_range": [
+      16,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T00:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090575273322541378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998820105627770880",
+          "start": 0,
+          "username": "TenpennyL62429"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090575273322541378",
+    "in_reply_to_user_id": "1998820105627770880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090471462864146731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TenpennyL62429 小时候看过一个长翅膀的吸血鬼恐怖伪纪录片，吓得好几天不敢睡觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2090471455742156800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLYtpSa4AAD1Tl.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2090471462864146731",
+        "created_at": "2026-08-20T23:02:40.000Z",
+        "display_text_range": [
+          16,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T00:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090575273322541378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998820105627770880",
+              "start": 0,
+              "username": "TenpennyL62429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090575273322541378",
+        "in_reply_to_user_id": "1998820105627770880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090471462864146731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TenpennyL62429 小时候看过一个长翅膀的吸血鬼恐怖伪纪录片，吓得好几天不敢睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090471455742156800"
+          ]
+        },
+        "author_id": "1998820105627770880",
+        "conversation_id": "2090471462864146731",
+        "created_at": "2026-08-20T16:10:10.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090471462864146731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GiuNarao6",
+              "end": 49,
+              "expanded_url": "https://x.com/TenpennyL62429/status/2090471462864146731/photo/1",
+              "media_key": "3_2090471455742156800",
+              "start": 26,
+              "url": "https://t.co/0GiuNarao6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090471462864146731",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090471455742156800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，如果你在夢中見到了長著翅膀的人，你會害怕嗎🥰 https://t.co/0GiuNarao6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2090575273322541378",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 201,
+          "like_count": 14179,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T18:20:45.000Z",
+        "description": "本賬號是 @Mr.湯普尼 （@GEACPS1940629）的小號，會發一些歷史老照片，感興趣的話就點個關注吧🥰 \n\n提問箱：https://t.co/mjqSr7BHDw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 5,
+                "username": "Mr"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "GEACPS1940629"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 85,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 62,
+                "url": "https://t.co/mjqSr7BHDw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/KpamqcoWrf"
+              }
+            ]
+          }
+        },
+        "id": "1998820105627770880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090516182130741477",
+        "name": "Mr.湯普尼▐┛（二代目）",
+        "pinned_tweet_id": "2089731195894665457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998820105627770880/1765390941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998820195599790082/UtF-9mcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 5523,
+          "like_count": 53098,
+          "listed_count": 0,
+          "media_count": 1465,
+          "tweet_count": 4054
+        },
+        "url": "https://t.co/KpamqcoWrf",
+        "username": "TenpennyL62429",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2079858262439043239",
+    "created_at": "2026-07-22T19:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T20:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080015570561540197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1500855672480489475",
+          "start": 0,
+          "username": "Science_010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080015570561540197",
+    "in_reply_to_user_id": "1500855672480489475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079858262439043239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Science_010 人多么脆弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2079858262439043239",
+        "created_at": "2026-07-22T19:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080015570561540197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080015570561540197",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079858262439043239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Science_010 人多么脆弱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500855672480489475",
+        "conversation_id": "2079858262439043239",
+        "created_at": "2026-07-22T09:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079858262439043239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079858262439043239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中推刷多了只发现死亡是如此容易"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 208,
+          "like_count": 12565,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "2045916676081025099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 942,
+          "like_count": 3987,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2614
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Science_010",
+        "verified": false
+      }
+    ]
+  }
+}

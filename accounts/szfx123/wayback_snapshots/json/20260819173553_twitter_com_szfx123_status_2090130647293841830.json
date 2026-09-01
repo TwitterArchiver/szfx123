@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090130642944360448"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2090130060246237391",
+    "created_at": "2026-08-19T17:35:53.000Z",
+    "display_text_range": [
+      7,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090130647293841830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vPv33juvRD",
+          "end": 31,
+          "expanded_url": "https://x.com/szfx123/status/2090130647293841830/photo/1",
+          "media_key": "3_2090130642944360448",
+          "start": 8,
+          "url": "https://t.co/vPv33juvRD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090130647293841830",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090130642944360448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090130060246237391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb https://t.co/vPv33juvRD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "3_2090130642944360448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGivurbgAA_s96.jpg",
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090130642944360448"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2090130060246237391",
+        "created_at": "2026-08-19T17:35:53.000Z",
+        "display_text_range": [
+          7,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090130647293841830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPv33juvRD",
+              "end": 31,
+              "expanded_url": "https://x.com/szfx123/status/2090130647293841830/photo/1",
+              "media_key": "3_2090130642944360448",
+              "start": 8,
+              "url": "https://t.co/vPv33juvRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090130647293841830",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090130642944360448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090130060246237391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb https://t.co/vPv33juvRD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2090130060246237391",
+        "created_at": "2026-08-19T17:33:33.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090130060246237391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090130060246237391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要不要选择睡觉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2090130647293841830",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 199,
+          "like_count": 14062,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "1000↑‖杂多里垢‖文盲·屌丝·弱智",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 0,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "is_identity_verified": false,
+        "location": "🚪1145.14",
+        "most_recent_tweet_id": "2090130400072908905",
+        "name": "死海",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287313244693000193/1786083224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085615198384410624/haGXDIaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 2427,
+          "like_count": 26685,
+          "listed_count": 2,
+          "media_count": 669,
+          "tweet_count": 17617
+        },
+        "url": "https://t.co/UQQWQB3ylm",
+        "username": "dsknzb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2092783160916349236",
+    "created_at": "2026-08-27T08:58:16.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092899486070866184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092899486070866184",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092783160916349236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb 红的好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2092783160916349236",
+        "created_at": "2026-08-27T08:58:16.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092899486070866184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092899486070866184",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092783160916349236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb 红的好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2092783160916349236",
+        "created_at": "2026-08-27T01:16:02.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092783160916349236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dsknzb/status/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/dsknzb/status/2092780748860252625",
+              "start": 34,
+              "url": "https://t.co/eAYHUSxx7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092783160916349236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092780748860252625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥色。🌚。感觉我这个发型和我的衣服搭配染粉的不好看。蓝的还是红的。 https://t.co/eAYHUSxx7d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2092899486070866184",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 203,
+          "like_count": 14644,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "裏垢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 0,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "is_identity_verified": false,
+        "location": "🚪1145.14",
+        "most_recent_tweet_id": "2092880974304444696",
+        "name": "死海",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287313244693000193/1786083224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085615198384410624/haGXDIaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 2456,
+          "like_count": 28379,
+          "listed_count": 2,
+          "media_count": 705,
+          "tweet_count": 18474
+        },
+        "url": "https://t.co/UQQWQB3ylm",
+        "username": "dsknzb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

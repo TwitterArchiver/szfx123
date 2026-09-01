@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2086908997312139327",
+    "created_at": "2026-08-10T20:27:05.000Z",
+    "display_text_range": [
+      15,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T21:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086912237491699999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882697857393893376",
+          "start": 0,
+          "username": "8964reckless_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086912237491699999",
+    "in_reply_to_user_id": "1882697857393893376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086908997312139327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964reckless_ 哭吧哭完好受一点(｡í _ ì｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2086908997312139327",
+        "created_at": "2026-08-10T20:27:05.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086912237491699999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882697857393893376",
+              "start": 0,
+              "username": "8964reckless_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086912237491699999",
+        "in_reply_to_user_id": "1882697857393893376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086908997312139327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964reckless_ 哭吧哭完好受一点(｡í _ ì｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882697857393893376",
+        "conversation_id": "2086908997312139327",
+        "created_at": "2026-08-10T20:14:12.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086908997312139327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086908997312139327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受啊我在招牌项目过剧情然后直接哭了我特别难受特别痛苦不知道怎么面对一切其实 我很自由行程规划没问题然后也没有排队到急眼 虽然热但是总体也算可接受我也不算很累 我只是 好难过好孤单玩都不开心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2086912237491699999",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 204,
+          "like_count": 13326,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-24T07:53:19.000Z",
+        "description": "好丽友派@Xooaviccc\n皮套@8964_xy11\n我的抑郁症都是听摇滚闹的西方资本主义咋这么坏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Xooaviccc"
+              },
+              {
+                "end": 27,
+                "start": 17,
+                "username": "8964_xy11"
+              }
+            ]
+          }
+        },
+        "id": "1882697857393893376",
+        "is_identity_verified": false,
+        "location": "Nowhere",
+        "most_recent_tweet_id": "2086908997312139327",
+        "name": "sakuta_02",
+        "pinned_tweet_id": "2085481918330712418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882697857393893376/1770272250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085147109670739968/JKQHFoHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 515,
+          "like_count": 9307,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 3842
+        },
+        "url": "",
+        "username": "8964reckless_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

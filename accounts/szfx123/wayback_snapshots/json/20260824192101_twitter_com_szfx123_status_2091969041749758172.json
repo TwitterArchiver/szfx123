@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2091827858721395054",
+    "created_at": "2026-08-24T19:21:01.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T20:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091969041749758172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1957747578151616512",
+          "start": 0,
+          "username": "sekiro_nd_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091969041749758172",
+    "in_reply_to_user_id": "1957747578151616512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091827858721395054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sekiro_nd_anime 为啥没人评论🧐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2090749437706686464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPViUza0AA-H3n.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2091827858721395054",
+        "created_at": "2026-08-24T19:21:01.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091969041749758172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957747578151616512",
+              "start": 0,
+              "username": "sekiro_nd_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091969041749758172",
+        "in_reply_to_user_id": "1957747578151616512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091827858721395054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sekiro_nd_anime 为啥没人评论🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090749437706686464"
+          ]
+        },
+        "author_id": "1957747578151616512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1109121938620768256",
+              "name": "Sekiro: Shadows Die Twice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1109121938620768256",
+              "name": "Sekiro: Shadows Die Twice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          }
+        ],
+        "conversation_id": "2091827858721395054",
+        "created_at": "2026-08-24T10:00:00.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091827858721395054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "sekiro"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "sekirond"
+            },
+            {
+              "end": 62,
+              "start": 52,
+              "tag": "アニメsekiro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s44yylz05y",
+              "end": 86,
+              "expanded_url": "https://x.com/sekiro_nd_anime/status/2091827858721395054/photo/1",
+              "media_key": "3_2090749437706686464",
+              "start": 63,
+              "url": "https://t.co/s44yylz05y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091827858721395054",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090749437706686464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 49228,
+          "like_count": 1296,
+          "quote_count": 26,
+          "reply_count": 1,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "【用語解説】\n「竜咳」\n――繰り返す「死」が周囲にもたらす死の病\n\n#sekiro #sekirond #アニメsekiro https://t.co/s44yylz05y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2091969041749758172",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 207,
+          "like_count": 14466,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-19T10:23:08.000Z",
+        "description": "監督：#沓名健一\n全編手描き2Dアニメーションで贈る、アクション・アドベンチャーゲーム『SEKIRO: SHADOWS DIE TWICE』（株式会社フロム・ソフトウェア）の初映像化プロジェクト。アヌシー国際アニメーション映画祭・ファンタジア国際映画祭出品決定！\n#sekiro #sekirond #アニメsekiro",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 3,
+                "tag": "沓名健一"
+              },
+              {
+                "end": 139,
+                "start": 132,
+                "tag": "sekiro"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "tag": "sekirond"
+              },
+              {
+                "end": 160,
+                "start": 150,
+                "tag": "アニメsekiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sekiro-anime.jp",
+                "end": 23,
+                "expanded_url": "https://sekiro-anime.jp/",
+                "start": 0,
+                "url": "https://t.co/LNgr9wvXJs"
+              }
+            ]
+          }
+        },
+        "id": "1957747578151616512",
+        "is_identity_verified": false,
+        "location": "葦名の国",
+        "most_recent_tweet_id": "2091903365349556598",
+        "name": "「SEKIRO: NO DEFEAT」アニメ公式 ｜9月4日(金)より3週間限定上映",
+        "pinned_tweet_id": "2070446974713651560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957747578151616512/1778234407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957910477922791429/XA8c98Eq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27870,
+          "following_count": 42,
+          "like_count": 0,
+          "listed_count": 68,
+          "media_count": 165,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/LNgr9wvXJs",
+        "username": "sekiro_nd_anime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

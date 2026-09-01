@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084913032665407488"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2084913039032320349",
+    "created_at": "2026-08-05T08:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084913039032320349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6hnWhbC0TF",
+          "end": 40,
+          "expanded_url": "https://x.com/szfx123/status/2084913039032320349/photo/1",
+          "media_key": "3_2084913032665407488",
+          "start": 17,
+          "url": "https://t.co/6hnWhbC0TF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084913039032320349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃呃，我明明很懒而且没那么傲慢😤 https://t.co/6hnWhbC0TF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2084913032665407488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8ZW1uaoAA2Yhc.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084913032665407488"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2084913039032320349",
+        "created_at": "2026-08-05T08:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084913039032320349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hnWhbC0TF",
+              "end": 40,
+              "expanded_url": "https://x.com/szfx123/status/2084913039032320349/photo/1",
+              "media_key": "3_2084913032665407488",
+              "start": 17,
+              "url": "https://t.co/6hnWhbC0TF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084913039032320349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃，我明明很懒而且没那么傲慢😤 https://t.co/6hnWhbC0TF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 210,
+          "like_count": 12933,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

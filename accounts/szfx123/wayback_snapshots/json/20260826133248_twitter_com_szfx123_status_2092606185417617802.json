@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092606177956007936"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2092601342833402022",
+    "created_at": "2026-08-26T13:32:48.000Z",
+    "display_text_range": [
+      7,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092606185417617802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DXg7R3o80w",
+          "end": 31,
+          "expanded_url": "https://x.com/szfx123/status/2092606185417617802/photo/1",
+          "media_key": "3_2092606177956007936",
+          "start": 8,
+          "url": "https://t.co/DXg7R3o80w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092606185417617802",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2092606177956007936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092601342833402022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb https://t.co/DXg7R3o80w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 431,
+        "media_key": "3_2092606177956007936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpuO1PbEAAwUQw.jpg",
+        "width": 431
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2092601254622994432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQppwQZXIAAeOZH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092606177956007936"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2092601342833402022",
+        "created_at": "2026-08-26T13:32:48.000Z",
+        "display_text_range": [
+          7,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092606185417617802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXg7R3o80w",
+              "end": 31,
+              "expanded_url": "https://x.com/szfx123/status/2092606185417617802/photo/1",
+              "media_key": "3_2092606177956007936",
+              "start": 8,
+              "url": "https://t.co/DXg7R3o80w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092606185417617802",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092606177956007936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092601342833402022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb https://t.co/DXg7R3o80w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092601254622994432"
+          ]
+        },
+        "author_id": "1287313244693000193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092601342833402022",
+        "created_at": "2026-08-26T13:13:33.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092601342833402022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7lvcEmdIX",
+              "end": 26,
+              "expanded_url": "https://x.com/dsknzb/status/2092601342833402022/photo/1",
+              "media_key": "3_2092601254622994432",
+              "start": 3,
+              "url": "https://t.co/Q7lvcEmdIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092601342833402022",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092601254622994432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来吃 https://t.co/Q7lvcEmdIX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2092606185417617802",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 204,
+          "like_count": 14585,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "裏垢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 0,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "is_identity_verified": false,
+        "location": "🚪1145.14",
+        "most_recent_tweet_id": "2092602736617349604",
+        "name": "死海",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287313244693000193/1786083224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085615198384410624/haGXDIaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2454,
+          "like_count": 28215,
+          "listed_count": 2,
+          "media_count": 700,
+          "tweet_count": 18367
+        },
+        "url": "https://t.co/UQQWQB3ylm",
+        "username": "dsknzb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

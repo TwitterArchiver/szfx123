@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2091485838714810488",
+    "created_at": "2026-08-23T11:29:21.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T12:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091487957647860053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091487957647860053",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091485838714810488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 吓人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091485825603375104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZzRvfakAAW5KZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2091485838714810488",
+        "created_at": "2026-08-23T11:29:21.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091487957647860053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091487957647860053",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091485838714810488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 吓人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091485825603375104"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2091485838714810488",
+        "created_at": "2026-08-23T11:20:56.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091485838714810488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fC9bbNJP9",
+              "end": 88,
+              "expanded_url": "https://x.com/KBDYD555/status/2091485838714810488/photo/1",
+              "media_key": "3_2091485825603375104",
+              "start": 65,
+              "url": "https://t.co/4fC9bbNJP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091485838714810488",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091485825603375104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈在我屋里装了监控...随时可以看我在干嘛还能跟我说话...昨天晚上我都关灯睡觉了突然监控说话吓死我了...好难受被监视的感觉 https://t.co/4fC9bbNJP9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2091487957647860053",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 204,
+          "like_count": 14370,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "is_identity_verified": false,
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "most_recent_tweet_id": "2091485913029525640",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557450235621695488/1768298893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4654,
+          "following_count": 709,
+          "like_count": 5808,
+          "listed_count": 8,
+          "media_count": 1114,
+          "tweet_count": 4337
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

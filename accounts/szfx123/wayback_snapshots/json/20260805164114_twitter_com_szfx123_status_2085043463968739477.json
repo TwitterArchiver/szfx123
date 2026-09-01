@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2084723215449063494",
+    "created_at": "2026-08-05T16:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085043463968739477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1809604484173295620",
+          "start": 0,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085043463968739477",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084723215449063494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_4ngel 怎么都这么好看，嫉妒死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2084723144716365824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5sp5_asAA33xe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2084723215449063494",
+        "created_at": "2026-08-05T16:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085043463968739477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085043463968739477",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084723215449063494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 怎么都这么好看，嫉妒死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084723144716365824"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "conversation_id": "2084723215449063494",
+        "created_at": "2026-08-04T19:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084723215449063494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6KvRHgQih",
+              "end": 29,
+              "expanded_url": "https://x.com/for_4ngel/status/2084723215449063494/photo/1",
+              "media_key": "3_2084723144716365824",
+              "start": 6,
+              "url": "https://t.co/W6KvRHgQih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084723215449063494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 874,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网友面基🥰 https://t.co/W6KvRHgQih"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 210,
+          "like_count": 12987,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 480,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 763
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}
