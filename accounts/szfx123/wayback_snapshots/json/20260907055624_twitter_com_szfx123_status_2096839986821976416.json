@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2096839986821976416",
+    "created_at": "2026-09-07T05:56:24.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096839986821976416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fisssh712/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Fisssh712/status/2096605168792146281",
+          "start": 12,
+          "url": "https://t.co/VPDykbbq0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096839986821976416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096605168792146281",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "地狱空荡荡，恶鬼在人间 https://t.co/VPDykbbq0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_2096605161796075521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRijSU8bAAE9aCe.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2096839986821976416",
+        "created_at": "2026-09-07T05:56:24.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096839986821976416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fisssh712/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Fisssh712/status/2096605168792146281",
+              "start": 12,
+              "url": "https://t.co/VPDykbbq0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096839986821976416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096605168792146281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地狱空荡荡，恶鬼在人间 https://t.co/VPDykbbq0h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096605161796075521"
+          ]
+        },
+        "author_id": "1244543552652054528",
+        "conversation_id": "2096605168792146281",
+        "created_at": "2026-09-06T14:23:19.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096605168792146281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lH8FHd8Jwk",
+              "end": 165,
+              "expanded_url": "https://x.com/Fisssh712/status/2096605168792146281/photo/1",
+              "media_key": "3_2096605161796075521",
+              "start": 142,
+              "url": "https://t.co/lH8FHd8Jwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096605168792146281",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096605161796075521"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 48232,
+          "like_count": 1109,
+          "quote_count": 15,
+          "reply_count": 238,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "宿舍楼有人割腕了，导员领导晶都来了，那个孩子大概之后也没法继续上学了。\n一群同学凑热闹去看，去拍视频，当猎奇笑话一样传播议论，走廊里还能听到他们的笑声。\n我真心觉得这些人好恐怖，毫无同理心 别人崩溃紫砂有什么好笑的。一想到要和一堆这样的人住一栋楼就一阵恶寒\n真希望遭受痛苦的能是他们 https://t.co/lH8FHd8Jwk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2096839986821976416",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 205,
+          "like_count": 15240,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3soKLg"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "is_identity_verified": false,
+        "location": "Silent Hill",
+        "most_recent_tweet_id": "2096809350539145696",
+        "name": "冰冷電子魚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244543552652054528/1778293640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5343,
+          "following_count": 567,
+          "like_count": 13980,
+          "listed_count": 8,
+          "media_count": 1076,
+          "tweet_count": 14740
+        },
+        "url": "https://t.co/V2GB3soKLg",
+        "username": "Fisssh712",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2096840969262088541",
+    "created_at": "2026-09-07T06:00:19.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096840969262088541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhngshngwn11/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/zhngshngwn11/status/2096764076626219223",
+          "start": 46,
+          "url": "https://t.co/2TDPG4z3rX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096840969262088541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096764076626219223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总是能看到类似的逻辑，出什么事了永远不谴责加害者，而是怪受害者为什么不更努力一点更聪明一点 https://t.co/2TDPG4z3rX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2096840969262088541",
+        "created_at": "2026-09-07T06:00:19.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096840969262088541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhngshngwn11/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/zhngshngwn11/status/2096764076626219223",
+              "start": 46,
+              "url": "https://t.co/2TDPG4z3rX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096840969262088541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096764076626219223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总是能看到类似的逻辑，出什么事了永远不谴责加害者，而是怪受害者为什么不更努力一点更聪明一点 https://t.co/2TDPG4z3rX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603714068686049280",
+        "conversation_id": "2096605168792146281",
+        "created_at": "2026-09-07T00:54:46.000Z",
+        "display_text_range": [
+          11,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096764076626219223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Fisssh712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096764076626219223",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1381,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096605168792146281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fisssh712 不懂，宁可割腕也不愿意换学校。这脑子早死晚死也没啥区别。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2096840969262088541",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 205,
+          "like_count": 15240,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 895
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-16T11:30:34.000Z",
+        "description": "me",
+        "id": "1603714068686049280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096764076626219223",
+        "name": "突击手牛爷爷",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609965615980367878/vKL9mjPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 7773,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "zhngshngwn11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3soKLg"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "is_identity_verified": false,
+        "location": "Silent Hill",
+        "most_recent_tweet_id": "2096809350539145696",
+        "name": "冰冷電子魚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244543552652054528/1778293640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5343,
+          "following_count": 567,
+          "like_count": 13980,
+          "listed_count": 8,
+          "media_count": 1076,
+          "tweet_count": 14740
+        },
+        "url": "https://t.co/V2GB3soKLg",
+        "username": "Fisssh712",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

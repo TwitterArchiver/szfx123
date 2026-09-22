@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2096471052411171152",
+    "created_at": "2026-09-06T05:30:24.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096471052411171152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sunyixian8/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/sunyixian8/status/2096401435218813348",
+          "start": 4,
+          "url": "https://t.co/20z1PuYKCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096471052411171152",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096401435218813348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭😭 https://t.co/20z1PuYKCR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2096471052411171152",
+        "created_at": "2026-09-06T05:30:24.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096471052411171152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sunyixian8/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sunyixian8/status/2096401435218813348",
+              "start": 4,
+              "url": "https://t.co/20z1PuYKCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096471052411171152",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096401435218813348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭 https://t.co/20z1PuYKCR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538923015932522496",
+        "conversation_id": "2096401435218813348",
+        "created_at": "2026-09-06T00:53:46.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096401435218813348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096401435218813348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你觉得那些总在倾诉负面情绪的人只是博取注意。\n“怎么不能积极一点思考呢？”那个愤世嫉俗的心之声会这么说。\nDamn it\n积极思考要这么容易谁会抱怨呢？\n而且，博取注意又有什么错呢？\n被疏离的个人对于日常生活与交际的渴望不正当吗？\n我并非总在能积极回应的情绪里，但我会尽力。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2096471052411171152",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 205,
+          "like_count": 15188,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 888
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-20T16:33:44.000Z",
+        "description": "学中做，做中学，反复回忆｜\n不是我所给予你的超出你所理解的能力，而是超出了你所看到的本身——马里翁｜自己选择的路可以跑｜没什么比发现无法掌控自己的命运更让人沮丧的｜Antinatalism｜以死亡为自由｜生活的很多不确定性我没办法保证｜向之所欣，多不可得｜小人物/多余人/地下人/局外人｜链接是Anna档案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "annas-archive.li",
+                "end": 23,
+                "expanded_url": "https://annas-archive.li/",
+                "start": 0,
+                "url": "https://t.co/FHlZSABbR9"
+              }
+            ]
+          }
+        },
+        "id": "1538923015932522496",
+        "is_identity_verified": false,
+        "location": "这是个无休止吐槽的小号，请不要follow",
+        "most_recent_tweet_id": "2096449736374980881",
+        "name": "从地下室走上天台",
+        "pinned_tweet_id": "1968903401988661639",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538923015932522496/1779811573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056230830465540096/UMWC5-8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 197,
+          "like_count": 66551,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/FHlZSABbR9",
+        "username": "sunyixian8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

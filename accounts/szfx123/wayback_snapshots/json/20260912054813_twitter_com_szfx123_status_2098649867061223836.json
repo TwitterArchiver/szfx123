@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098649859813515264"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098649867061223836",
+    "created_at": "2026-09-12T05:48:13.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T06:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098649867061223836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KV932hHyyb",
+          "end": 39,
+          "expanded_url": "https://x.com/szfx123/status/2098649867061223836/photo/1",
+          "media_key": "3_2098649859813515264",
+          "start": 16,
+          "url": "https://t.co/KV932hHyyb"
+        },
+        {
+          "display_url": "x.com/szfx123/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/szfx123/status/2091063761927012800",
+          "start": 40,
+          "url": "https://t.co/qIrBmIpORK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098649867061223836",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098649859813515264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091063761927012800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被赋予特殊意义的歌怎么听都不腻 https://t.co/KV932hHyyb https://t.co/qIrBmIpORK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2098649859813515264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_m7aoboAAM84N.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2091063754171789312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTzZ84asAA-Ux4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098649859813515264"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098649867061223836",
+        "created_at": "2026-09-12T05:48:13.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098649867061223836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KV932hHyyb",
+              "end": 39,
+              "expanded_url": "https://x.com/szfx123/status/2098649867061223836/photo/1",
+              "media_key": "3_2098649859813515264",
+              "start": 16,
+              "url": "https://t.co/KV932hHyyb"
+            },
+            {
+              "display_url": "x.com/szfx123/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/szfx123/status/2091063761927012800",
+              "start": 40,
+              "url": "https://t.co/qIrBmIpORK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098649867061223836",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098649859813515264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091063761927012800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被赋予特殊意义的歌怎么听都不腻 https://t.co/KV932hHyyb https://t.co/qIrBmIpORK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091063754171789312"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2091063761927012800",
+        "created_at": "2026-08-22T07:23:45.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091063761927012800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66vbT0Mfv2",
+              "end": 63,
+              "expanded_url": "https://x.com/szfx123/status/2091063761927012800/photo/1",
+              "media_key": "3_2091063754171789312",
+              "start": 40,
+              "url": "https://t.co/66vbT0Mfv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091063761927012800",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091063754171789312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初高中最痛苦绝望的日子里，最开心的就是看小本的视频。听他常用的bgm让我很安心 https://t.co/66vbT0Mfv2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2098649867061223836",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 205,
+          "like_count": 15516,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

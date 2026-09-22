@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097359529105399809"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2097359533299712468",
+    "created_at": "2026-09-08T16:20:54.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097359533299712468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/02gGQZ60mD",
+          "end": 65,
+          "expanded_url": "https://x.com/szfx123/status/2097359533299712468/photo/1",
+          "media_key": "3_2097359529105399809",
+          "start": 42,
+          "url": "https://t.co/02gGQZ60mD"
+        },
+        {
+          "display_url": "x.com/szfx123/status…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/szfx123/status/2096482401082044483",
+          "start": 66,
+          "url": "https://t.co/1xYjD9x3fP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097359533299712468",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097359529105399809"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096482401082044483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。。。还是被剧透了，刷到那个帖子上来前5个字就是xxx死了，这我怎么躲，没招了 https://t.co/02gGQZ60mD https://t.co/1xYjD9x3fP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 388,
+        "media_key": "3_2097359529105399809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtRYSKboAEuKAn.jpg",
+        "width": 304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097359529105399809"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2097359533299712468",
+        "created_at": "2026-09-08T16:20:54.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097359533299712468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/02gGQZ60mD",
+              "end": 65,
+              "expanded_url": "https://x.com/szfx123/status/2097359533299712468/photo/1",
+              "media_key": "3_2097359529105399809",
+              "start": 42,
+              "url": "https://t.co/02gGQZ60mD"
+            },
+            {
+              "display_url": "x.com/szfx123/status…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/szfx123/status/2096482401082044483",
+              "start": 66,
+              "url": "https://t.co/1xYjD9x3fP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097359533299712468",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097359529105399809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096482401082044483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。。。还是被剧透了，刷到那个帖子上来前5个字就是xxx死了，这我怎么躲，没招了 https://t.co/02gGQZ60mD https://t.co/1xYjD9x3fP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2096482401082044483",
+        "created_at": "2026-09-06T06:15:29.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096482401082044483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096482401082044483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被剧透好多次真的怕了，现在我通关一个游戏前要给相关内容全点上不感兴趣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2097359533299712468",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 203,
+          "like_count": 15339,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

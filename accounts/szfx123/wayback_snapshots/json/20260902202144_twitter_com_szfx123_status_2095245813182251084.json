@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095245808887308288"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "conversation_id": "2095191642928214190",
+    "created_at": "2026-09-02T20:21:44.000Z",
+    "display_text_range": [
+      10,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T21:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095245813182251084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "8964_xy11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iGJpDG52fv",
+          "end": 34,
+          "expanded_url": "https://x.com/szfx123/status/2095245813182251084/photo/1",
+          "media_key": "3_2095245808887308288",
+          "start": 11,
+          "url": "https://t.co/iGJpDG52fv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095245813182251084",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2095245808887308288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095191642928214190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_xy11 https://t.co/iGJpDG52fv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2095245808887308288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRPO9kvaoAAQuvK.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095245808887308288"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2095191642928214190",
+        "created_at": "2026-09-02T20:21:44.000Z",
+        "display_text_range": [
+          10,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095245813182251084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "8964_xy11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGJpDG52fv",
+              "end": 34,
+              "expanded_url": "https://x.com/szfx123/status/2095245813182251084/photo/1",
+              "media_key": "3_2095245808887308288",
+              "start": 11,
+              "url": "https://t.co/iGJpDG52fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095245813182251084",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2095245808887308288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095191642928214190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_xy11 https://t.co/iGJpDG52fv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "conversation_id": "2095191642928214190",
+        "created_at": "2026-09-02T16:46:29.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095191642928214190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095191642928214190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近沉迷算命，可是算出来一个七十多岁小学学历还一事无成的人，居然手握大权特别好，是不是我学艺不精？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2095245813182251084",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 206,
+          "like_count": 15005,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "活着就是为了听@TPROfficial\n坚信无依无靠就是无拘无束\n匿名提问箱和私信都会回复\n皮下@8964reckless_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "TPROfficial"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "8964reckless_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 0,
+                "url": "https://t.co/j6vldLU2uY"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "is_identity_verified": false,
+        "location": "Gladsheim ，Asgard",
+        "most_recent_tweet_id": "2095207248037601407",
+        "name": "曦夜没开空调",
+        "pinned_tweet_id": "2085209213383606475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733255083440357376/1773435734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088711641294864384/otSVxi4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 977,
+          "like_count": 50769,
+          "listed_count": 10,
+          "media_count": 118,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/j6vldLU2uY",
+        "username": "8964_xy11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

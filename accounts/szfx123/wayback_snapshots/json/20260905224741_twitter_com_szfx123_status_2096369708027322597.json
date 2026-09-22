@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695314246735892480",
+    "conversation_id": "2096266258685763943",
+    "created_at": "2026-09-05T22:47:41.000Z",
+    "display_text_range": [
+      27,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T23:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096369708027322597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        },
+        {
+          "end": 26,
+          "id": "2090222250482192384",
+          "start": 13,
+          "username": "nanzhihao666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096369708027322597",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096271145104560531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 @nanzhihao666 可能她们被骗怕了吧，但是因为怕骗子就排斥所有友跨顺男的话，那就只剩下没完没了的对立吵架了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695314246735892480",
+        "conversation_id": "2096266258685763943",
+        "created_at": "2026-09-05T22:47:41.000Z",
+        "display_text_range": [
+          27,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T23:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096369708027322597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            },
+            {
+              "end": 26,
+              "id": "2090222250482192384",
+              "start": 13,
+              "username": "nanzhihao666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096369708027322597",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096271145104560531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 @nanzhihao666 可能她们被骗怕了吧，但是因为怕骗子就排斥所有友跨顺男的话，那就只剩下没完没了的对立吵架了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096266258685763943",
+        "created_at": "2026-09-05T16:16:02.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096271145104560531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090222250482192384",
+              "start": 0,
+              "username": "nanzhihao666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096271145104560531",
+        "in_reply_to_user_id": "2090222250482192384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 801,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096269668420087916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanzhihao666 有人说挂着友跨顺男的人实际上都不怀好心想上xyn（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2096369708027322597",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 203,
+          "like_count": 15164,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2096285002283762079",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1814,
+          "like_count": 24289,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 3725
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T23:40:57.000Z",
+        "description": "我愛看百合，我就要看百合。\n高三生，已經開學。\n愛看百合番 / INTJ / 精神狀態良好 / 偶爾喝點🍺/無其餘不良嗜好 / 🏳️‍⚧️/哮喘部长。\n愛玩：羽毛球、編程、攝影、三角洲、Phigros、明日方舟。\n友跨(永不翻車)，待人友善，女同性恋者。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nanzhihao",
+                "end": 23,
+                "expanded_url": "http://t.me/nanzhihao",
+                "start": 0,
+                "url": "https://t.co/F75V6FvYKo"
+              }
+            ]
+          }
+        },
+        "id": "2090222250482192384",
+        "is_identity_verified": false,
+        "location": "太陽系",
+        "most_recent_tweet_id": "2096295273681326115",
+        "name": "楠枝浩🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090222250482192384/1787183192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096269749814747136/52SMNXPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/F75V6FvYKo",
+        "username": "nanzhihao666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

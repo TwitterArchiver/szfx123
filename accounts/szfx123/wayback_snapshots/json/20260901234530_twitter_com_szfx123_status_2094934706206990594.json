@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094636658675286017"
+      ],
+      "media_source_tweet_id": [
+        "2094742071982596271"
+      ]
+    },
+    "author_id": "1695314246735892480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094934706206990594",
+    "created_at": "2026-09-01T23:45:30.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T00:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094934706206990594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737385737635745793",
+          "start": 3,
+          "username": "paya_paya_D"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SPInyo0EdS",
+          "end": 53,
+          "expanded_url": "https://x.com/paya_paya_D/status/2094742071982596271/photo/1",
+          "media_key": "3_2094636658675286017",
+          "start": 30,
+          "url": "https://t.co/SPInyo0EdS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094934706206990594",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094636658675286017"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094742071982596271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paya_paya_D: 私だけが終われない世界で https://t.co/SPInyo0EdS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1113,
+        "media_key": "3_2094636658675286017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGk8XXaAAESbpH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094636658675286017"
+          ],
+          "media_source_tweet_id": [
+            "2094742071982596271"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094934706206990594",
+        "created_at": "2026-09-01T23:45:30.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094934706206990594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1737385737635745793",
+              "start": 3,
+              "username": "paya_paya_D"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPInyo0EdS",
+              "end": 53,
+              "expanded_url": "https://x.com/paya_paya_D/status/2094742071982596271/photo/1",
+              "media_key": "3_2094636658675286017",
+              "start": 30,
+              "url": "https://t.co/SPInyo0EdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094934706206990594",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094636658675286017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094742071982596271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paya_paya_D: 私だけが終われない世界で https://t.co/SPInyo0EdS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094636658675286017"
+          ]
+        },
+        "author_id": "1737385737635745793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094742071982596271",
+        "created_at": "2026-09-01T11:00:03.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094742071982596271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPInyo0EdS",
+              "end": 36,
+              "expanded_url": "https://x.com/paya_paya_D/status/2094742071982596271/photo/1",
+              "media_key": "3_2094636658675286017",
+              "start": 13,
+              "url": "https://t.co/SPInyo0EdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094742071982596271",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094636658675286017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 29786,
+          "like_count": 2374,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "私だけが終われない世界で https://t.co/SPInyo0EdS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "愿我的仇恨胜过我的痛苦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "is_identity_verified": false,
+        "location": "虚空",
+        "most_recent_tweet_id": "2094934706206990594",
+        "name": "神之飞雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695314246735892480/1780116003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 206,
+          "like_count": 14966,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-20T08:13:42.000Z",
+        "description": "インターネットを楽しみたい！！\nイイ感じ！！",
+        "id": "1737385737635745793",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094932860792930458",
+        "name": "ぱやでぃー",
+        "pinned_tweet_id": "2054132781283000603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737385737635745793/1784867950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021951597874659328/L9HCXDOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8085,
+          "following_count": 380,
+          "like_count": 14604,
+          "listed_count": 40,
+          "media_count": 312,
+          "tweet_count": 2095
+        },
+        "url": "",
+        "username": "paya_paya_D",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
